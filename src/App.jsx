@@ -23,11 +23,19 @@ const App = () => {
 	const [flaggedQuestions, setFlaggedQuestions] = useState([]);
 	const [isFlaggedReviewMode, setIsFlaggedReviewMode] = useState(false);
 	const [questionStartTime, setQuestionStartTime] = useState(Date.now());
+	// Added state for multiple answer selections
+	const [multipleSelections, setMultipleSelections] = useState({});
 
 	// --- COMPUTED VALUES ---
 	const currentQuestion = shuffledQuestions[currentQuestionIndex] || {};
 	const totalQuestions = shuffledQuestions.length;
 	const currentAnswer = userAnswers.find(a => a.questionIndex === currentQuestionIndex);
+	
+	// Check if the current question has multiple correct answers
+	const isMultipleAnswerQuestion = Array.isArray(currentQuestion.answer);
+	
+	// Get the current selections for multiple answer questions
+	const currentMultipleSelections = multipleSelections[currentQuestionIndex] || [];
 
 	// --- EXAM BODY HANDLER ---
 	const handleSelectExamBody = useCallback((examBody) => {
@@ -122,11 +130,16 @@ const App = () => {
 
 	// --- NAVIGATION HANDLERS ---
 	const goToQuestion = useCallback((index) => {
+		// Submit any pending multiple answers before navigating
+		if (isMultipleAnswerQuestion && !currentAnswer && currentMultipleSelections.length > 0) {
+			submitMultipleAnswer();
+		}
+		
 		if (index >= 0 && index < totalQuestions) {
 			logger.debug(`Navigating to question ${index + 1}`);
 			setCurrentQuestionIndex(index);
 		}
-	}, [totalQuestions]);
+	}, [currentMultipleSelections, currentAnswer, isMultipleAnswerQuestion, submitMultipleAnswer, totalQuestions]);
 
 	const handleNextClick = useCallback(() => {
 		goToQuestion(currentQuestionIndex + 1);
@@ -140,24 +153,50 @@ const App = () => {
 	const handleAnswerClick = useCallback((selectedKey) => {
 		if (currentAnswer || !currentQuestion.answer) return;
 
-		const isCorrect = selectedKey === currentQuestion.answer;
-		const timeSpent = Math.floor((Date.now() - questionStartTime) / 1000);
+		// Check if this is a multiple-answer question by seeing if the answer is an array
+		const isMultipleAnswerQuestion = Array.isArray(currentQuestion.answer);
 
-		logger.info(`Answered Q${currentQuestionIndex + 1}: ${selectedKey} - ${isCorrect ? 'Correct' : 'Incorrect'}`);
+		if (isMultipleAnswerQuestion) {
+			// For multiple answer questions, toggle the selection instead of submitting immediately
+			setMultipleSelections(prev => {
+				const currentSelections = prev[currentQuestionIndex] || [];
+				const isSelected = currentSelections.includes(selectedKey);
+				
+				let newSelections;
+				if (isSelected) {
+					// Remove the selection
+					newSelections = currentSelections.filter(key => key !== selectedKey);
+				} else {
+					// Add the selection
+					newSelections = [...currentSelections, selectedKey];
+				}
+				
+				return {
+					...prev,
+					[currentQuestionIndex]: newSelections
+				};
+			});
+		} else {
+			// Original single answer handling
+			const isCorrect = selectedKey === currentQuestion.answer;
+			const timeSpent = Math.floor((Date.now() - questionStartTime) / 1000);
 
-		if (isCorrect) {
-			setScore(prevScore => prevScore + 1);
+			logger.info(`Answered Q${currentQuestionIndex + 1}: ${selectedKey} - ${isCorrect ? 'Correct' : 'Incorrect'}`);
+
+			if (isCorrect) {
+				setScore(prevScore => prevScore + 1);
+			}
+
+			setUserAnswers(prevAnswers => [...prevAnswers, {
+				questionIndex: currentQuestionIndex,
+				selectedKey: selectedKey,
+				isCorrect: isCorrect,
+				explanation: currentQuestion.explanation,
+				timeSpent: timeSpent
+			}]);
+
+			setQuestionStartTime(Date.now());
 		}
-
-		setUserAnswers(prevAnswers => [...prevAnswers, {
-			questionIndex: currentQuestionIndex,
-			selectedKey: selectedKey,
-			isCorrect: isCorrect,
-			explanation: currentQuestion.explanation,
-			timeSpent: timeSpent
-		}]);
-
-		setQuestionStartTime(Date.now());
 	}, [currentAnswer, currentQuestion, currentQuestionIndex, questionStartTime]);
 
 	// --- FLAG HANDLER ---
@@ -175,8 +214,55 @@ const App = () => {
 		});
 	}, [currentQuestion]);
 
+	// --- SUBMIT MULTIPLE ANSWERS ---
+	const submitMultipleAnswer = useCallback(() => {
+		if (!isMultipleAnswerQuestion || currentAnswer || currentMultipleSelections.length === 0) return;
+
+		// Check if all selected answers match the correct answers exactly
+		// For multiple answer questions, the user must select ALL correct answers and ONLY the correct answers
+		const correctAnswers = Array.from(new Set(currentQuestion.answer)); // Ensure unique answers
+		const userSelections = Array.from(new Set(currentMultipleSelections)); // Ensure unique selections
+		
+		// Sort both arrays to compare them
+		const sortedCorrect = [...correctAnswers].sort();
+		const sortedUser = [...userSelections].sort();
+		
+		const isCorrect = sortedCorrect.length === sortedUser.length && 
+			sortedCorrect.every((val, idx) => val === sortedUser[idx]);
+			
+		const timeSpent = Math.floor((Date.now() - questionStartTime) / 1000);
+
+		logger.info(`Submitted multiple answer Q${currentQuestionIndex + 1}: [${userSelections.join(',')}] - ${isCorrect ? 'Correct' : 'Incorrect'}`);
+
+		if (isCorrect) {
+			setScore(prevScore => prevScore + 1);
+		}
+
+		setUserAnswers(prevAnswers => [...prevAnswers, {
+			questionIndex: currentQuestionIndex,
+			selectedKey: userSelections, // Store as array
+			isCorrect: isCorrect,
+			explanation: currentQuestion.explanation,
+			timeSpent: timeSpent
+		}]);
+
+		// Clear the multiple selections for this question
+		setMultipleSelections(prev => {
+			const newState = {...prev};
+			delete newState[currentQuestionIndex];
+			return newState;
+		});
+
+		setQuestionStartTime(Date.now());
+	}, [currentAnswer, currentQuestion, currentQuestionIndex, currentMultipleSelections, isMultipleAnswerQuestion, questionStartTime]);
+
 	// --- SUBMIT HANDLER ---
 	const handleSubmitQuiz = useCallback(() => {
+		// Submit any pending multiple answers before finishing the quiz
+		if (isMultipleAnswerQuestion && !currentAnswer && currentMultipleSelections.length > 0) {
+			submitMultipleAnswer();
+		}
+		
 		const finalScore = userAnswers.filter(a => a.isCorrect).length;
 		const totalTime = userAnswers.reduce((acc, a) => acc + (a.timeSpent || 0), 0);
 
@@ -189,7 +275,7 @@ const App = () => {
 		if (isFlaggedReviewMode) {
 			setIsFlaggedReviewMode(false);
 		}
-	}, [userAnswers, totalQuestions, selectedCategory, isFlaggedReviewMode]);
+	}, [userAnswers, totalQuestions, selectedCategory, isFlaggedReviewMode, isMultipleAnswerQuestion, currentAnswer, currentMultipleSelections, submitMultipleAnswer]);
 
 	// --- RESET HANDLER ---
 	const restartQuiz = useCallback(() => {
@@ -307,6 +393,9 @@ const App = () => {
 					onNextClick={handleNextClick}
 					onSubmitQuiz={handleSubmitQuiz}
 					onFlagQuestion={handleFlagQuestion}
+                        isMultipleAnswerQuestion={isMultipleAnswerQuestion}
+                        currentMultipleSelections={currentMultipleSelections}
+                        submitMultipleAnswer={submitMultipleAnswer}
 				/>
 			);
 		}
