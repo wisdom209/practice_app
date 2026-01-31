@@ -13,7 +13,10 @@ const QuestionDisplay = ({
   onBackClick,
   onNextClick,
   onSubmitQuiz,
-  onFlagQuestion
+  onFlagQuestion,
+  isMultipleAnswerQuestion,
+  currentMultipleSelections,
+  submitMultipleAnswer
 }) => {
   const [focusedOptionKey, setFocusedOptionKey] = useState(null);
   const [timeSpent, setTimeSpent] = useState(0);
@@ -95,10 +98,21 @@ const QuestionDisplay = ({
 
   const optionKeys = Object.keys(currentQuestion.options);
   const isFlagged = currentQuestion.id ? flaggedQuestions.includes(currentQuestion.id) : false;
+  
+  // Determine the selected key based on whether it's a multiple answer question
+  let selectedKeyForFeedback;
+  if (isMultipleAnswerQuestion && currentMultipleSelections && Array.isArray(currentMultipleSelections[currentQuestionIndex])) {
+    // For multiple answer questions, use the current selections
+    selectedKeyForFeedback = currentMultipleSelections[currentQuestionIndex];
+  } else {
+    // For single answer questions, use the regular current answer
+    selectedKeyForFeedback = currentAnswer ? currentAnswer.selectedKey : null;
+  }
+  
   const currentFeedback = currentAnswer ? {
     isCorrect: currentAnswer.isCorrect,
     explanation: currentAnswer.isCorrect ? currentQuestion.explanation : currentAnswer.explanation,
-    selectedKey: currentAnswer.selectedKey,
+    selectedKey: Array.isArray(currentAnswer.selectedKey) ? currentAnswer.selectedKey : currentAnswer.selectedKey,
   } : null;
 
   return (
@@ -118,8 +132,29 @@ const QuestionDisplay = ({
 
         <div className="grid gap-4">
           {Object.entries(currentQuestion.options).map(([key, text]) => {
-            const isSelected = currentFeedback && currentFeedback.selectedKey === key;
-            const isCorrectAnswer = currentQuestion.answer === key;
+            // Check if the option is selected (for single or multiple answers)
+            let isSelected = false;
+            if (currentFeedback) {
+              if (Array.isArray(currentFeedback.selectedKey)) {
+                isSelected = currentFeedback.selectedKey.includes(key);
+              } else {
+                isSelected = currentFeedback.selectedKey === key;
+              }
+            } else if (isMultipleAnswerQuestion && selectedKeyForFeedback && Array.isArray(selectedKeyForFeedback)) {
+              // During selection phase for multiple answer questions
+              isSelected = selectedKeyForFeedback.includes(key);
+            } else {
+              isSelected = selectedKeyForFeedback === key;
+            }
+            
+            // Check if the option is correct (for single or multiple correct answers)
+            let isCorrectAnswer = false;
+            if (Array.isArray(currentQuestion.answer)) {
+              isCorrectAnswer = currentQuestion.answer.includes(key);
+            } else {
+              isCorrectAnswer = currentQuestion.answer === key;
+            }
+            
             const isFocused = !currentFeedback && key === focusedOptionKey;
             
             let buttonClasses = "p-4 rounded-xl text-left border-2 transition duration-200 shadow-md";
