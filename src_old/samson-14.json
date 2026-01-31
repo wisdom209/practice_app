@@ -1,0 +1,1780 @@
+[
+	{
+		"question-no": 1,
+		"category": "samson-mock-15",
+		"sub-category": "Emergency Medicine",
+		"question": "A 7-year-old child presents to primary care with a fever and a non-blanching rash. He appears unwell and febrile at 39.4\u00b0C. What is the most appropriate action for the GP?",
+		"options": {
+			"a": "Parenteral Benzylpenicillin",
+			"b": "Oral phenymethypenicillin",
+			"c": "Paracetamol",
+			"d": "Give IM benzylpenicillin",
+			"e": "Parenteral Amoxicillin"
+		},
+		"answer": "d",
+		"explanation": "Any child with fever AND non-blanching rash must be treated as suspected meningococcal septicaemia. Immediate IM benzylpenicillin should be given before hospital transfer unless there is penicillin allergy.",
+		"original-question-no": "Question 1",
+		"id": "b36af6e0-5548-48c2-b65a-929166d9ef59",
+		"extended_explanation": "Meningococcal septicaemia is a medical emergency. The non-blanching rash (petechiae/purpura) indicates underlying coagulopathy and sepsis. Immediate parenteral antibiotics are critical - benzylpenicillin is the drug of choice in primary care settings before urgent transfer to hospital."
+	},
+	{
+		"question-no": 2,
+		"category": "samson-mock-15",
+		"sub-category": "Rheumatology",
+		"question": "A 68-year-old man presents with acute pain and swelling in his knee. Joint aspiration shows calcium pyrophosphate crystals that are positively birefringent under polarised light microscopy. What is the most likely diagnosis?",
+		"options": {
+			"a": "Septic arthritis",
+			"b": "Gout",
+			"c": "Rheumatoid arthritis",
+			"d": "Pseudogout",
+			"e": "Reactive arthritis"
+		},
+		"answer": "d",
+		"explanation": "Pseudogout (CPPD) is defined by calcium pyrophosphate crystals that are positively birefringent. It most commonly affects the knee, wrist, or shoulder and presents similarly to gout but with different crystals. Gout has negatively birefringent monosodium urate crystals.",
+		"original-question-no": "Question 2 of 97",
+		"id": "66de1892-90a7-4158-935b-86d784c3d750",
+		"extended_explanation": "The key diagnostic feature is the positively birefringent rhomboid-shaped crystals under polarized light, which is pathognomonic for calcium pyrophosphate deposition disease (pseudogout). This differentiates it from gout (negatively birefringent needle-shaped crystals) and septic arthritis (which would show purulent fluid and organisms on culture)."
+	},
+	{
+		"question-no": 3,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 63-year-old man on treatment for hypertension and diabetes reports new facial flushing, especially after taking his medications. His current medications are Amlodipine, Metformin and Atorvastatin and aspirin. Which medication is the most likely cause of his symptoms?",
+		"options": {
+			"a": "Amlodipine",
+			"b": "Metformin",
+			"c": "Atorvastatin",
+			"d": "Aspirin"
+		},
+		"answer": "a",
+		"explanation": "Amlodipine, a dihydropyridine calcium-channel blocker, commonly causes facial flushing, headache, ankle swelling and palpitations due to peripheral vasodilation.",
+		"original-question-no": "Question 3 of 97",
+		"id": "21805d46-0cf5-417d-b29a-3e503349ffc0",
+		"extended_explanation": "Dihydropyridine calcium channel blockers like amlodipine work by relaxing vascular smooth muscle, leading to vasodilation. This can cause flushing through increased cutaneous blood flow. The other medications listed do not typically cause flushing as a primary side effect."
+	},
+	{
+		"question-no": 4,
+		"category": "samson-mock-15",
+		"sub-category": "Haematology",
+		"question": "A 55-year-old woman with a history of breast cancer presents with easy bruising, bleeding when brushing her teeth, and increasing tiredness. She has been admitted recently for cancer remission therapy. Blood films show abnormal white cells. What is the most likely diagnosis?",
+		"options": {
+			"a": "Lymphoma",
+			"b": "HIV infection",
+			"c": "Acute leukaemia",
+			"d": "Epstein-Barr virus infection",
+			"e": "Norovirus"
+		},
+		"answer": "c",
+		"explanation": "Features of bone marrow failure (easy bruising, gum bleeding, tiredness) plus abnormal white cells (blasts) and recent chemotherapy suggest acute leukaemia. Chemotherapy-induced marrow suppression is a risk factor for secondary leukaemia.",
+		"original-question-no": "Question 4 of 97",
+		"id": "5e7d2f0f-bb60-4d5f-ae7b-3102f1e66d8c",
+		"extended_explanation": "Therapy-related acute myeloid leukaemia (t-AML) can occur as a complication of chemotherapy (especially alkylating agents and topoisomerase inhibitors). The presence of pancytopenia with circulating blast cells on peripheral smear is diagnostic. This requires urgent bone marrow biopsy and haematology referral."
+	},
+	{
+		"question-no": 5,
+		"category": "samson-mock-15",
+		"sub-category": "Infectious Disease",
+		"question": "A 29-year-old school teacher presents with a sore throat, fatigue, and right upper-quadrant (RUQ) abdominal pain. On examination, she has mild cervical lymphadenopathy. What is the most likely diagnosis?",
+		"options": {
+			"a": "CMV infection",
+			"b": "HIV seroconversion",
+			"c": "Epstein-Barr virus (EBV) infection",
+			"d": "Viral hepatitis",
+			"e": "Influenza"
+		},
+		"answer": "c",
+		"explanation": "EBV (infectious mononucleosis) classically presents with sore throat, fatigue, cervical lymphadenopathy, and RUQ pain from hepatic involvement/hepatosplenomegaly. It commonly affects young adults, especially teachers due to exposure.",
+		"original-question-no": "Question 5 of 97",
+		"id": "15f3ddb1-5f32-49c4-8d0a-e9274bd01752",
+		"extended_explanation": "The triad of sore throat, lymphadenopathy and hepatosplenomegaly with atypical lymphocytes on blood film is classic for EBV mononucleosis. The RUQ pain is due to hepatic inflammation and splenic enlargement. CMV causes milder illness without significant sore throat, and HIV seroconversion wouldn't cause prominent RUQ pain."
+	},
+	{
+		"question-no": 6,
+		"category": "samson-mock-15",
+		"sub-category": "Infectious Disease",
+		"question": "A 27-year-old woman presents with an ulcer on her upper chest and a white patch under her tongue. She reports unintentional weight loss and recurrent mouth ulcers over the past few months. What is the most likely diagnosis?",
+		"options": {
+			"a": "Herpes simplex infection",
+			"b": "Syphilis",
+			"c": "HIV infection",
+			"d": "Lichen planus",
+			"e": "Aphthous ulcers"
+		},
+		"answer": "c",
+		"explanation": "The combination of mucocutaneous ulcers, oral leukoplakia, weight loss and recurrent infections strongly suggests HIV-related immunosuppression. An ulcer plus oral lesion together is characteristic of advanced HIV disease.",
+		"original-question-no": "Question 6 of 97",
+		"id": "ab9dc284-5e2c-4237-a1d8-cde5c44ee245",
+		"extended_explanation": "HIV can present with various opportunistic infections and malignancies. Oral candidiasis, hairy leukoplakia, and recurrent aphthous ulcers are common oral manifestations. The presence of systemic symptoms like weight loss and skin ulcers suggests advanced immunosuppression with CD4 count <200 cells/\u00b5L, warranting immediate HIV testing."
+	},
+	{
+		"question-no": 7,
+		"category": "samson-mock-15",
+		"sub-category": "Infectious Disease",
+		"question": "A 34-year-old man presents with fever, confusion, diarrhoea, vomiting, and generalised myalgia. He reports that several members of his household have developed the same symptoms over the last 24 hours. He is dehydrated but haemodynamically stable. What is the most likely diagnosis?",
+		"options": {
+			"a": "Influenza",
+			"b": "Bacterial gastroenteritis",
+			"c": "Norovirus infection",
+			"d": "Malaria",
+			"e": "Sepsis of unknown origin"
+		},
+		"answer": "c",
+		"explanation": "Norovirus is highly contagious and causes sudden onset vomiting, diarrhoea, myalgia and mild fever with clustered cases in households. This presentation is characteristic of norovirus gastroenteritis.",
+		"original-question-no": "Question 7 of 97",
+		"id": "c239762d-0e24-460d-95d4-c14388d06e2d",
+		"extended_explanation": "Norovirus has an incubation period of 12-48 hours and typically causes acute gastroenteritis with projectile vomiting and watery diarrhoea. The rapid household spread and short duration of illness are key epidemiological clues. Bacterial gastroenteritis would often have higher fever, bloody stools or longer incubation."
+	},
+	{
+		"question-no": 8,
+		"category": "samson-mock-15",
+		"sub-category": "Gastroenterology",
+		"question": "A 52-year-old man with a long history of excess alcohol intake presents with upper abdominal pain radiating to the back. He is clinically stable with mild epigastric tenderness. What is the most appropriate initial investigation?",
+		"options": {
+			"a": "Ultrasound scan (USS)",
+			"b": "MRI abdomen",
+			"c": "MRCP",
+			"d": "CT abdomen",
+			"e": "Endoscopy"
+		},
+		"answer": "a",
+		"explanation": "In alcohol-related abdominal pain radiating to the back, the top differential is pancreatitis. Ultrasound is the first-line investigation to check for gallstones (the most common cause of pancreatitis), biliary dilatation, and pancreatic enlargement.",
+		"original-question-no": "Question 8 of 97",
+		"id": "dd40a7e4-d5b1-46fa-9b71-91fdedc10079",
+		"extended_explanation": "Ultrasound is preferred as the initial test because it is non-invasive, widely available, and can detect gallstones and biliary obstruction which are treatable causes of pancreatitis. CT is reserved for severe disease or complications, while MRCP is used for detailed biliary imaging if ultrasound is inconclusive."
+	},
+	{
+		"question-no": 9,
+		"category": "samson-mock-15",
+		"sub-category": "Vascular Medicine",
+		"question": "A 72-year-old man with known ischaemic heart disease presents with sudden severe abdominal pain and hypotension. He looks pale. Which is the most appropriate investigation?",
+		"options": {
+			"a": "Abdominal X-ray",
+			"b": "Abdominal ultrasound",
+			"c": "CT angiogram",
+			"d": "MRI abdomen",
+			"e": "Endoscopy"
+		},
+		"answer": "c",
+		"explanation": "In an elderly patient with IHD, severe abdominal pain, and hypotension, the most important diagnosis to exclude is ruptured abdominal aortic aneurysm (AAA). CT angiogram is the most rapid and accurate diagnostic test for this emergency.",
+		"original-question-no": "Question 9 of 97",
+		"id": "3faea25a-fee6-45db-b9f4-264fddc951f7",
+		"extended_explanation": "Ruptured AAA has a mortality of 50% before reaching hospital. CT angiography can rapidly identify the aneurysm, site of rupture, and suitability for endovascular repair. Ultrasound is insufficient for diagnosing rupture as it cannot reliably detect retroperitoneal bleeding."
+	},
+	{
+		"question-no": 10,
+		"category": "samson-mock-15",
+		"sub-category": "Haematology",
+		"question": "A 46-year-old woman presents with petechiae, widespread bruising, and increasing confusion. Blood tests show severely low platelets. What is the most appropriate treatment?",
+		"options": {
+			"a": "Oral prednisolone",
+			"b": "IV vitamin K",
+			"c": "Plasmapheresis",
+			"d": "Platelet transfusion",
+			"e": "Fresh frozen plasma"
+		},
+		"answer": "c",
+		"explanation": "This is classic thrombotic thrombocytopenic purpura (TTP) with thrombocytopenia, neurological symptoms and microangiopathic haemolysis. Plasmapheresis is the urgent first-line treatment as it removes antibodies and replenishes ADAMTS13.",
+		"original-question-no": "Question 10 of 97",
+		"id": "6695fba9-2a25-45b7-8945-860d0640b206",
+		"extended_explanation": "TTP is a medical emergency with 90% mortality if untreated. The pentad includes thrombocytopenia, neurological symptoms, microangiopathic haemolytic anaemia, fever and renal impairment. Plasmapheresis has reduced mortality to 10-20%. Platelet transfusion is contraindicated as it can worsen thrombosis."
+	},
+	{
+		"question-no": 11,
+		"category": "samson-mock-15",
+		"sub-category": "Respiratory",
+		"question": "A 68-year-old man with COPD is on maximum inhaler therapy. He complains of breathlessness when climbing the stairs. What is the most appropriate next management step?",
+		"options": {
+			"a": "Increase inhaler dose",
+			"b": "Add oral corticosteroids",
+			"c": "Pulmonary rehabilitation",
+			"d": "Long-term oxygen therapy (LTOT) / oxygen assessment",
+			"e": "Reassure and continue current management"
+		},
+		"answer": "c",
+		"explanation": "Despite optimal inhaler therapy, the patient remains symptomatic on exertion with SpO2 92%. LTOT is only indicated if SpO2 \u2264 92% at rest with signs of cor pulmonale. Pulmonary rehabilitation is the appropriate next step to improve exercise tolerance.",
+		"original-question-no": "Question 11 of 97",
+		"id": "6e20a35a-e02b-441e-b8b5-9f1c8a2e34a2",
+		"extended_explanation": "Pulmonary rehabilitation improves dyspnoea, exercise capacity, and quality of life in COPD patients. It includes exercise training, education, and nutritional advice. LTOT has strict criteria: PaO2 \u2264 7.3 kPa or SaO2 \u2264 88%, or PaO2 7.3-8 kPa with polycythaemia, cor pulmonale, or nocturnal hypoxaemia."
+	},
+	{
+		"question-no": 12,
+		"category": "samson-mock-15",
+		"sub-category": "Respiratory",
+		"question": "A 74-year-old man with severe COPD attends with worsening breathlessness. He reports waking at night short of breath, and his legs are swollen. What is the most appropriate next step?",
+		"options": {
+			"a": "Increase inhaler dose",
+			"b": "Add oral corticosteroids",
+			"c": "Pulmonary rehabilitation",
+			"d": "Long-term oxygen therapy (LTOT) / oxygen assessment",
+			"e": "Reassure and continue current management"
+		},
+		"answer": "d",
+		"explanation": "The patient meets multiple LTOT criteria: SpO2 \u2264 92% on air (88%), peripheral oedema, raised JVP and cyanosis. These signs indicate chronic hypoxaemia and right heart strain requiring oxygen assessment.",
+		"original-question-no": "Question 12 of 97",
+		"id": "7f0a8533-624d-4e66-9e6d-bf21111e9197",
+		"extended_explanation": "Nocturnal desaturation and peripheral oedema suggest cor pulmonale secondary to chronic hypoxaemia. NICE guidelines recommend LTOT assessment for any COPD patient with SpO2 \u2264 92% who has signs of right heart failure. This can improve survival and quality of life."
+	},
+	{
+		"question-no": 13,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 52-year-old man presents with tiredness and weight gain. He drinks alcohol daily. Blood tests show: TSH: normal, Free T4: normal, MCV: high. What is the most likely cause of his symptoms?",
+		"options": {
+			"a": "Overt hypothyroidism",
+			"b": "Subclinical hypothyroidism",
+			"c": "Alcohol excess",
+			"d": "Vitamin B12 deficiency",
+			"e": "Chronic liver disease"
+		},
+		"answer": "c",
+		"explanation": "High MCV (macrocytosis) in the context of chronic daily alcohol intake suggests the direct toxic effect of alcohol on bone marrow, even without anaemia or vitamin deficiency. This is a common cause of macrocytosis.",
+		"original-question-no": "Question 13 of 97",
+		"id": "bc305b27-faf1-42a1-9956-5bfd8b0c70c3",
+		"extended_explanation": "Alcohol directly interferes with DNA synthesis in red blood cell precursors, leading to macrocytosis. This can precede the development of anaemia and occurs before other liver function abnormalities. It's a sensitive marker of hazardous alcohol consumption."
+	},
+	{
+		"question-no": 14,
+		"category": "samson-mock-15",
+		"sub-category": "Haematology",
+		"question": "A 48-year-old homeless man who injects heroin presents with bleeding when he brushes his teeth and easy bruising. On examination, there is scaling of the skin around the ears. He is stable and alert. What is the most likely diagnosis?",
+		"options": {
+			"a": "Thrombotic thrombocytopenic purpura",
+			"b": "Liver failure",
+			"c": "Immune thrombocytopenic purpura",
+			"d": "Systemic sclerosis",
+			"e": "Acute leukaemia"
+		},
+		"answer": "b",
+		"explanation": "The combination of mucosal bleeding, easy bruising, skin changes around the ears and IV drug use suggests chronic viral hepatitis leading to liver failure with coagulopathy. Liver failure impairs synthesis of clotting factors causing bleeding despite normal platelet count.",
+		"original-question-no": "Question 14 of 97",
+		"id": "86ecaf2f-c333-40bd-8531-a5eb3470e512",
+		"extended_explanation": "IV drug users have high prevalence of hepatitis B and C (50-80% seroprevalence). Chronic hepatitis progresses to cirrhosis in 20-30% with complications of portal hypertension and coagulopathy. Skin changes include seborrhoeic dermatitis and spider naevi. The prolonged bleeding time reflects combined factor deficiency and thrombocytopenia from hypersplenism."
+	},
+	{
+		"question-no": 15,
+		"category": "samson-mock-15",
+		"sub-category": "Nephrology",
+		"question": "A 32-year-old man reports dark urine and visible haematuria first thing in the morning, which resolves later in the day. He has no pain, fever, or urinary symptoms. What is the most likely diagnosis?",
+		"options": {
+			"a": "Rhabdomyolysis",
+			"b": "Acute glomerulonephritis",
+			"c": "Haematuria due to kidney stones",
+			"d": "Paroxysmal nocturnal haemoglobinuria",
+			"e": "Urinary tract infection"
+		},
+		"answer": "d",
+		"explanation": "Dark urine on waking that clears during the day is classic for Paroxysmal Nocturnal Haemoglobinuria (PNH). During sleep, mild respiratory acidosis increases complement activation causing intravascular haemolysis, with haemoglobin appearing in the first morning urine.",
+		"original-question-no": "Question 15 of 97",
+		"id": "1d9df09e-e547-430d-bcaa-90f6d6348846",
+		"extended_explanation": "PNH is an acquired clonal disorder due to somatic mutation in the PIGA gene, leading to deficiency of GPI-anchored complement inhibitors (CD55, CD59) on RBCs. This makes cells susceptible to complement-mediated lysis, particularly during sleep when pH decreases slightly. The Ham test or flow cytometry for CD55/CD59 deficiency confirms diagnosis."
+	},
+	{
+		"question-no": 16,
+		"category": "samson-mock-15",
+		"sub-category": "Urology",
+		"question": "A 24-year-old man presents with dysuria and urinary hesitancy. Urine dip shows pyuria, but urine culture is negative. He has no fever and no flank pain. What is the most likely diagnosis?",
+		"options": {
+			"a": "Acute prostatitis",
+			"b": "Urinary tract infection",
+			"c": "Sexually transmitted infection",
+			"d": "Renal tuberculosis",
+			"e": "Urethral stricture"
+		},
+		"answer": "c",
+		"explanation": "Sterile pyuria (white cells but no bacterial growth) in a young sexually active man with dysuria suggests Chlamydia infection, which doesn't grow on routine urine culture. This causes urethral inflammation leading to dysuria and hesitancy.",
+		"original-question-no": "Question 16 of 97",
+		"id": "a5485a5f-36cc-481a-ac26-2ae976f2336b",
+		"extended_explanation": "Chlamydia trachomatis is the most common bacterial STI causing non-gonococcal urethritis. It requires specific nucleic acid amplification tests (NAAT) for diagnosis. Acute prostatitis would have fever and perineal pain, while renal tuberculosis causes chronic sterile pyuria with systemic symptoms."
+	},
+	{
+		"question-no": 17,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 67-year-old man with hyperthyroidism is being treated with carbimazole. He also has polymyalgia rheumatica (PMR) managed with prednisolone. He presents with a sore throat and sticky, irritated eyes. His temperature is 37.9\u00b0C. Which medication should be stopped immediately?",
+		"options": {
+			"a": "Prednisolone",
+			"b": "Carbimazole",
+			"c": "Both medications",
+			"d": "Neither medication",
+			"e": "Switch prednisolone to NSAIDs"
+		},
+		"answer": "b",
+		"explanation": "Sore throat with fever or malaise in a patient taking carbimazole is a red flag for agranulocytosis, a life-threatening side effect. Carbimazole must be stopped immediately and an urgent full blood count performed. Prednisolone does not cause agranulocytosis.",
+		"original-question-no": "Question 17 of 97",
+		"id": "a0f9f989-d31d-42d1-92e5-d05b987f0744",
+		"extended_explanation": "Carbimazole and propylthiouracil can cause agranulocytosis in 0.1-0.5% of patients, typically within the first 3 months of treatment. Patients should be warned to stop the drug and seek urgent medical attention if they develop sore throat or fever. An FBC will confirm neutrophil count <0.5 x 10^9/L."
+	},
+	{
+		"question-no": 18,
+		"category": "samson-mock-15",
+		"sub-category": "Vascular Medicine",
+		"question": "A 56-year-old man who smokes presents with severe leg pain and swelling below the knee. The leg becomes pale on elevation. What is the most likely diagnosis?",
+		"options": {
+			"a": "Cellulitis",
+			"b": "Deep vein thrombosis",
+			"c": "Peripheral arterial disease",
+			"d": "Lymphoedema",
+			"e": "Sciatica"
+		},
+		"answer": "b",
+		"explanation": "The combination of unilateral leg swelling below the knee, severe pain, and pallor on elevation is classic for deep vein thrombosis causing venous obstruction. Smoking is a risk factor for thrombosis.",
+		"original-question-no": "Question 18 of 97",
+		"id": "86e8c823-1d80-4955-b8b6-e2bee5eb82bc",
+		"extended_explanation": "DVT arises from Virchow's triad: stasis, hypercoagulability, and endothelial injury. The 'pallor on elevation' sign (Buerger's sign) occurs because venous outflow obstruction prevents capillary filling when the leg is raised. Immediate Doppler ultrasound is required for diagnosis, and anticoagulation should be started pending confirmation."
+	},
+	{
+		"question-no": 19,
+		"category": "samson-mock-15",
+		"sub-category": "Cardiovascular",
+		"question": "A 79-year-old man with known atrial fibrillation attends a clinic for anticoagulation review. He has a CHA\u2082DS\u2082-VASc score of 8 and an ORBIT bleeding score of 2. What is the most appropriate anticoagulant?",
+		"options": {
+			"a": "Apixaban",
+			"b": "Warfarin",
+			"c": "Heparin",
+			"d": "Dabigatran"
+		},
+		"answer": "a",
+		"explanation": "A CHA\u2082DS\u2082-VASc score of 8 indicates very high stroke risk requiring anticoagulation. An ORBIT score of 2 indicates moderate bleeding risk where DOACs like apixaban are preferred over warfarin due to better safety profile and fewer drug interactions.",
+		"original-question-no": "Question 19 of 97",
+		"id": "47b9b92b-28f6-41c8-ab6a-6f2f51aece93",
+		"extended_explanation": "CHA\u2082DS\u2082-VASc score \u22652 in men (or \u22653 in women) mandates anticoagulation. A score of 8 gives an annual stroke risk of >15%. The ORBIT bleeding risk score helps guide choice of anticoagulant - DOACs have 30-50% lower risk of intracranial haemorrhage compared to warfarin, making them preferable in moderate bleeding risk patients."
+	},
+	{
+		"question-no": 20,
+		"category": "samson-mock-15",
+		"sub-category": "Obstetrics",
+		"question": "A 28-year-old pregnant woman who was exposed to chickenpox three weeks ago presents with severe shortness of breath, tachypnoea, and chest discomfort. What is the most appropriate management?",
+		"options": {
+			"a": "Oral aciclovir at home",
+			"b": "Intravenous aciclovir at home",
+			"c": "Reassurance only",
+			"d": "Hospital assessment",
+			"e": "Oral antibiotics"
+		},
+		"answer": "d",
+		"explanation": "Pregnant women with varicella exposure are at high risk of severe varicella pneumonia. Severe respiratory symptoms require immediate hospital assessment for IV aciclovir, oxygen therapy, and monitoring. Oral therapy is insufficient for severe disease.",
+		"original-question-no": "Question 20 of 97",
+		"id": "196c86ed-1720-4de4-8bc1-c7bd2af1259a",
+		"extended_explanation": "Varicella pneumonia is the most serious complication of primary varicella infection in pregnancy, with mortality up to 40% if untreated. Pregnant women are 10-20 times more likely to develop severe pneumonia. IV aciclovir 10mg/kg every 8 hours should be started empirically pending confirmation. The patient should be managed in isolation with respiratory support as needed."
+	},
+	{
+		"question-no": 21,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 55-year-old man with type 2 diabetes has recently started a new job working on roofs. His latest HbA1c is 60 mmol/mol. He is on Metformin, Acarbose, Night time Lantus (insulin glargine) and a sulfonylurea. Which medication should be stopped due to the nature of his work?",
+		"options": {
+			"a": "Night-time Lantus",
+			"b": "Acarbose",
+			"c": "Metformin",
+			"d": "Pioglitazone"
+		},
+		"answer": "a",
+		"explanation": "Working at heights requires avoiding hypoglycaemia risk. Insulin poses the highest and most unpredictable risk, especially with variable physical activity. Basal insulin has greater risk of nocturnal and unrecognised hypoglycaemia which could be dangerous for manual work at heights.",
+		"original-question-no": "Question 21 of 97",
+		"id": "ac4a36c2-c50b-4074-8926-6e295735a101",
+		"extended_explanation": "Hypoglycaemia at heights could cause loss of balance and fatal falls. The DVLA and occupational health guidelines advise that people working at heights should not use insulin or sulfonylureas. While both cause hypoglycaemia, insulin requires more complex dose adjustment with changing activity levels and has a higher risk of severe hypoglycaemia."
+	},
+	{
+		"question-no": 22,
+		"category": "samson-mock-15",
+		"sub-category": "Psychiatry",
+		"question": "A 29-year-old man recently started antipsychotic medication. He now presents with fever and rigors. He appears unwell and is sweating. What is the most appropriate investigation?",
+		"options": {
+			"a": "Full blood count",
+			"b": "Liver function tests",
+			"c": "Creatine kinase",
+			"d": "Chest X-ray",
+			"e": "C-reactive protein"
+		},
+		"answer": "c",
+		"explanation": "This presentation suggests neuroleptic malignant syndrome (NMS), a life-threatening reaction to antipsychotics. Creatine kinase is markedly elevated due to severe muscle rigidity and breakdown, and is the key diagnostic test for NMS.",
+		"original-question-no": "Question 22 of 97",
+		"id": "d7aba22b-0ab9-4d60-a620-ca0d1f132430",
+		"extended_explanation": "NMS has mortality of 10-20% and requires immediate treatment. Diagnostic criteria include fever, muscle rigidity, autonomic instability, and altered mental status. CK levels often exceed 1000 IU/L due to rhabdomyolysis. Management involves stopping the offending drug, IV fluids, active cooling, and sometimes dantrolene or bromocriptine."
+	},
+	{
+		"question-no": 23,
+		"category": "samson-mock-15",
+		"sub-category": "Infectious Disease",
+		"question": "A 40-year-old man presents with a circular, slowly expanding rash on his leg after returning from a hiking trip. The rash has enlarged over one week. What is the most appropriate treatment and dosage?",
+		"options": {
+			"a": "Doxycycline 100 mg twice daily for 21 days",
+			"b": "Amoxicillin 500 mg three times daily for 14 days",
+			"c": "Clarithromycin 500 mg twice daily for 14 days",
+			"d": "Ceftriaxone 2 g IV once daily for 14 days"
+		},
+		"answer": "a",
+		"explanation": "This is erythema migrans, the characteristic rash of early Lyme disease. NICE CKS recommends doxycycline 100mg BD for 21 days as first-line treatment in adults. IV ceftriaxone is reserved for neurological or cardiac involvement.",
+		"original-question-no": "Question 23 of 97",
+		"id": "4f9dc095-1652-43fa-b590-e4607f2ba5fc",
+		"extended_explanation": "Lyme disease is caused by Borrelia burgdorferi transmitted by Ixodes ticks. Erythema migrans expands over days to weeks and may be associated with systemic symptoms. Doxycycline covers the spirochete and is effective in preventing later complications like Lyme arthritis or neuroborreliosis. Amoxicillin is an alternative for children or pregnant women."
+	},
+	{
+		"question-no": 24,
+		"category": "samson-mock-15",
+		"sub-category": "Gynaecology",
+		"question": "A 78-year-old woman presents with burning on urination and vaginal dryness. On examination, the vaginal tissues appear thin and pale. What is the most likely diagnosis?",
+		"options": {
+			"a": "Lower urinary tract infection",
+			"b": "Pyelonephritis",
+			"c": "Acute urinary retention",
+			"d": "Vaginal atrophy",
+			"e": "Acute cystitis"
+		},
+		"answer": "d",
+		"explanation": "Post-menopausal oestrogen deficiency causes thinning and dryness of vaginal and urethral tissues (vaginal atrophy), leading to chronic dysuria and pale mucosa. Topical vaginal oestrogen is the appropriate treatment.",
+		"original-question-no": "Question 24 of 97",
+		"id": "3696d030-03d2-4281-88f0-3e218e4ed905",
+		"extended_explanation": "Genitourinary syndrome of menopause (GSM) affects up to 50% of postmenopausal women. Oestrogen deficiency leads to loss of vaginal rugae, reduced elasticity, and increased pH, predisposing to urinary symptoms and infections. Topical oestrogen (cream, pessary, or ring) effectively restores mucosal health with minimal systemic absorption."
+	},
+	{
+		"question-no": 25,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 4-day-old preterm male newborn presents with difficulty feeding, abdominal bloating, and bilious vomiting. What is the most appropriate investigation?",
+		"options": {
+			"a": "Erect chest X-ray",
+			"b": "Supine abdominal X-ray",
+			"c": "Abdominal ultrasound",
+			"d": "CT abdomen",
+			"e": "MRI abdomen"
+		},
+		"answer": "b",
+		"explanation": "This presentation is classic for necrotising enterocolitis (NEC) in a preterm infant. Supine abdominal X-ray is the first-line investigation to detect bowel wall thickening, pneumatosis intestinalis, and portal venous gas.",
+		"original-question-no": "Question 25 of 97",
+		"id": "ae69059d-a81c-4738-8f70-781ed88cb676",
+		"extended_explanation": "NEC is a surgical emergency with mortality up to 30% in preterm infants. Abdominal X-ray should be performed as soon as NEC is suspected, with serial films to monitor progression. Findings include dilated bowel loops, pneumatosis (pathognomonic), portal venous gas, and free air if perforation occurs. Ultrasound may be used adjunctively but X-ray remains first-line."
+	},
+	{
+		"question-no": 26,
+		"category": "samson-mock-15",
+		"sub-category": "Gastroenterology",
+		"question": "A 58-year-old man presents with severe upper abdominal pain after eating. The pain occurs regularly after meals, causing him to avoid eating. He reports reduced bowel movements and has no signs of peritonism. What is the most likely diagnosis?",
+		"options": {
+			"a": "Acute mesenteric ischaemia",
+			"b": "Chronic mesenteric ischaemia",
+			"c": "Peptic ulcer disease",
+			"d": "Gallstones",
+			"e": "Chronic pancreatitis"
+		},
+		"answer": "b",
+		"explanation": "Post-prandial abdominal pain ('abdominal angina') with food avoidance and weight loss but stable observations is characteristic of chronic mesenteric ischaemia from atherosclerotic narrowing of mesenteric arteries. Acute mesenteric ischaemia presents with sudden severe pain and systemic instability.",
+		"original-question-no": "Question 26 of 97",
+		"id": "2b95d5aa-eaf5-4f00-ab2f-c50e85c8fcc9",
+		"extended_explanation": "Chronic mesenteric ischaemia is caused by stenosis of at least two of the three mesenteric arteries (celiac, superior and inferior mesenteric). The pain results from inability to increase blood flow to meet post-prandial metabolic demands. Diagnosis is confirmed by CT angiography or MR angiography showing high-grade stenoses. Revascularisation (angioplasty/stenting or surgery) is often required."
+	},
+	{
+		"question-no": 27,
+		"category": "samson-mock-15",
+		"sub-category": "Gastroenterology",
+		"question": "A 57-year-old man presents with a 3-month history of central chest pain that occurs after meals and sometimes wakes him at night. He has no shortness of breath and is otherwise well. What is the most appropriate investigation?",
+		"options": {
+			"a": "Upper GI endoscopy",
+			"b": "H. pylori test",
+			"c": "ERCP",
+			"d": "MRI scan",
+			"e": "CT scan"
+		},
+		"answer": "a",
+		"explanation": "Central chest pain related to eating suggests oesophageal or gastric pathology such as reflux, oesophagitis or peptic ulcer disease. Upper GI endoscopy is the first-line investigation to directly visualise the mucosa and identify structural disease.",
+		"original-question-no": "Question 27 of 97",
+		"id": "ed6b3ed5-c1bd-401f-8616-6393bf637de8",
+		"extended_explanation": "Endoscopy allows direct visualisation, biopsy of suspicious lesions, and testing for H. pylori. Alarm features requiring urgent endoscopy include dysphagia, odynophagia, weight loss, anaemia, or persistent vomiting. In this case, the duration of symptoms (3 months) warrants endoscopic evaluation to exclude Barrett's oesophagus or malignancy."
+	},
+	{
+		"question-no": 28,
+		"category": "samson-mock-15",
+		"sub-category": "Renal Medicine",
+		"question": "A 68-year-old man with stage 4 chronic kidney disease is being reviewed. Recent blood tests show raised PTH, hypercalcaemia and normal phosphate. He has mild fatigue. What is the most appropriate initial management?",
+		"options": {
+			"a": "Vitamin D supplementation",
+			"b": "Increase dietary calcium",
+			"c": "Cinacalcet",
+			"d": "Bisphosphonate therapy",
+			"e": "Phosphate binders"
+		},
+		"answer": "c",
+		"explanation": "Raised PTH with hypercalcaemia in CKD suggests tertiary hyperparathyroidism. Cinacalcet reduces PTH secretion and is specifically used when hypercalcaemia is present, as vitamin D or calcium supplements would worsen the hypercalcaemia.",
+		"original-question-no": "Question 28 of 97",
+		"id": "5742ff81-7735-4da0-ba6f-2f6609112388",
+		"extended_explanation": "Secondary hyperparathyroidism in CKD is initially treated with vitamin D analogues. When this progresses to tertiary hyperparathyroidism, the parathyroid glands become autonomous and secrete PTH despite hypercalcaemia. Cinacalcet is a calcimimetic that suppresses PTH secretion by increasing sensitivity of calcium-sensing receptors. It avoids the need for parathyroidectomy in many patients."
+	},
+	{
+		"question-no": 29,
+		"category": "samson-mock-15",
+		"sub-category": "Cardiology",
+		"question": "A 72-year-old man with a recent myocardial infarction presents with increasing breathlessness. On examination, he has fine bibasal crackles on auscultation. What is the most likely diagnosis?",
+		"options": {
+			"a": "Pulmonary fibrosis",
+			"b": "Pulmonary oedema",
+			"c": "Chronic obstructive pulmonary disease",
+			"d": "Bronchopneumonia",
+			"e": "Pleural effusion"
+		},
+		"answer": "b",
+		"explanation": "Fine bibasal crackles following a recent MI strongly suggest left ventricular failure causing pulmonary oedema due to the heart's inability to pump efficiently, leading to back-pressure in the pulmonary circulation.",
+		"original-question-no": "Question 29 of 97",
+		"id": "3b54d8e8-9d7d-4dec-951c-cc4207e5992e",
+		"extended_explanation": "Post-MI left ventricular dysfunction leads to elevated left atrial pressure and pulmonary venous congestion. Fluid accumulates first in the basal segments due to gravity, causing fine inspiratory crackles. This requires urgent treatment with diuretics, nitrates, and ACE inhibitors/ARBs. An echocardiogram should be performed to assess LV function."
+	},
+	{
+		"question-no": 30,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 46-year-old woman presents with fatigue, dizziness, and poor appetite. Blood tests show hyponatraemia, hyperkalaemia and hypoglycaemia. What is the most appropriate investigation?",
+		"options": {
+			"a": "Random cortisol",
+			"b": "Short Synacthen test",
+			"c": "Renin level",
+			"d": "ACTH level",
+			"e": "Thyroid function tests"
+		},
+		"answer": "b",
+		"explanation": "The combination of hyponatraemia, hyperkalaemia, hypoglycaemia and fatigue is highly suggestive of Addison's disease. The Short Synacthen test is the first-line confirmatory test to assess adrenal reserve.",
+		"original-question-no": "Question 30 of 97",
+		"id": "0eee6a7f-998b-4fa2-8496-f6432683bf51",
+		"extended_explanation": "Addison's disease causes deficiency of cortisol and aldosterone. Hyponatraemia and hyperkalaemia result from aldosterone deficiency, while hypoglycaemia and fatigue are due to cortisol deficiency. The Short Synacthen test measures serum cortisol before and 30 minutes after 250\u00b5g synthetic ACTH. A peak cortisol <500 nmol/L confirms adrenal insufficiency."
+	},
+	{
+		"question-no": 31,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 6-year-old boy is brought to the GP with sudden-onset swelling of the left knee. The knee is hot, red, swollen, and boggy, and he has difficulty bearing weight. What is the most appropriate management?",
+		"options": {
+			"a": "Paracetamol at home",
+			"b": "Ibuprofen and rest",
+			"c": "Send for routine GP review",
+			"d": "Send to A&E urgently",
+			"e": "Reassure and review in 24 hours"
+		},
+		"answer": "d",
+		"explanation": "A hot, red, swollen joint with inability to bear weight is classic for septic arthritis, an orthopaedic emergency. Immediate referral to A&E is required for joint aspiration, IV antibiotics, and surgical washout to prevent joint destruction and sepsis.",
+		"original-question-no": "Question 31 of 97",
+		"id": "ccdd57ef-3719-4349-9956-dc8bd6d7fac3",
+		"extended_explanation": "Septic arthritis requires urgent treatment within 6 hours to prevent irreversible cartilage damage. The diagnosis is confirmed by joint aspiration showing purulent fluid with >50,000 WBC/\u00b5L and >90% neutrophils, positive Gram stain, and culture. Empirical IV antibiotics (e.g., flucloxacillin + gentamicin) should be started after aspiration. Blood cultures are positive in 50% of cases."
+	},
+	{
+		"question-no": 32,
+		"category": "samson-mock-15",
+		"sub-category": "Emergency Medicine",
+		"question": "A 25-year-old man returns from Brazil and presents with sudden shortness of breath. His respiratory rate is 25, chest examination is clear, and his chest X-ray is normal. What is the most appropriate investigation?",
+		"options": {
+			"a": "Chest radiograph",
+			"b": "ECG",
+			"c": "CTPA",
+			"d": "Peak flow",
+			"e": "Arterial blood gas"
+		},
+		"answer": "c",
+		"explanation": "Acute shortness of breath following long travel with normal examination and chest X-ray strongly suggests pulmonary embolism. CT pulmonary angiography (CTPA) is the gold standard investigation to confirm or exclude PE.",
+		"original-question-no": "Question 32 of 97",
+		"id": "ffb960db-20f3-47ee-8c13-885da2032dec",
+		"extended_explanation": "The Wells score for PE should be calculated - this patient would have >4 points (clinical signs of DVT 3, alternative diagnosis less likely 3). A normal CXR does not exclude PE as it may be normal in 50% of cases. CTPA has sensitivity >90% for PE and can identify right ventricular strain, helping risk stratification."
+	},
+	{
+		"question-no": 33,
+		"category": "samson-mock-15",
+		"sub-category": "Obstetrics",
+		"question": "A 29-year-old pregnant woman at 22 weeks presents with a blood pressure of 150/99 mmHg, headache, blurred vision, and upper abdominal pain. What is the most appropriate management?",
+		"options": {
+			"a": "Start labetalol and review in one week",
+			"b": "Start nifedipine at home",
+			"c": "Reassure and monitor BP in 48 hours",
+			"d": "Urgent referral to secondary care",
+			"e": "Methyldopa in primary care"
+		},
+		"answer": "d",
+		"explanation": "This presentation is concerning for pre-eclampsia (BP \u2265140/90 after 20 weeks with headache, visual disturbance and abdominal pain). This is a medical emergency requiring urgent specialist assessment in secondary care.",
+		"original-question-no": "Question 33 of 97",
+		"id": "2d8c4c6e-3d27-489f-9c7e-9e833db55091",
+		"extended_explanation": "Pre-eclampsia can progress rapidly to eclampsia with seizures and HELLP syndrome. The presence of headache and visual disturbance suggests cerebral involvement, while RUQ pain indicates hepatic involvement or capsular distension. Immediate assessment in obstetric triage is needed with blood pressure control (IV labetalol), magnesium sulphate seizure prophylaxis, and delivery planning."
+	},
+	{
+		"question-no": 34,
+		"category": "samson-mock-15",
+		"sub-category": "Emergency Medicine",
+		"question": "A 42-year-old woman presents after being bitten on the hand by her cat earlier today. The wound has been cleaned thoroughly and is superficial. What is the most appropriate management?",
+		"options": {
+			"a": "Reassure only",
+			"b": "Co-amoxiclav",
+			"c": "Doxycycline",
+			"d": "Clarithromycin",
+			"e": "No antibiotics unless signs of infection appear"
+		},
+		"answer": "b",
+		"explanation": "Cat bites carry a high risk of Pasteurella multocida infection. Prophylactic antibiotics are recommended for hand wounds, puncture wounds, and bites. Co-amoxiclav is first-line as it covers Pasteurella, anaerobes, and skin flora.",
+		"original-question-no": "Question 34 of 97",
+		"id": "56af34b5-77ad-4712-bfa0-3ec5f186b4a8",
+		"extended_explanation": "Hand bites are particularly dangerous due to the closed compartments and risk of tendon sheath infection. Prophylactic antibiotics reduce infection risk from 50% to <5%. Co-amoxiclav 625mg TDS for 3-5 days is recommended. Doxycycline is used for penicillin-allergic patients. Wounds should be left open rather than sutured."
+	},
+	{
+		"question-no": 35,
+		"category": "samson-mock-15",
+		"sub-category": "Urology",
+		"question": "A 74-year-old man with known benign prostatic hyperplasia (BPH) has recently started treatment for urinary symptoms. Since then, he reports feeling light-headed when standing and has had two falls in the last month. Which medication is the most likely cause?",
+		"options": {
+			"a": "Finasteride",
+			"b": "Alfuzosin",
+			"c": "Oxybutynin",
+			"d": "Tamsulosin",
+			"e": "Tolterodine"
+		},
+		"answer": "b",
+		"explanation": "Alfuzosin is an alpha-1 blocker that commonly causes postural hypotension, dizziness and falls, especially in the elderly. This is due to peripheral vasodilation and first-dose syncope.",
+		"original-question-no": "Question 35 of 97",
+		"id": "b752df8f-debb-4ed0-80c2-367cc1e6a7a3",
+		"extended_explanation": "Alpha-blockers act on vascular \u03b11-adrenoreceptors causing vasodilation. This effect is more pronounced with the non-selective agents like alfuzosin and doxazosin compared to tamsulosin which is more uroselective. The elderly are particularly susceptible due to impaired baroreceptor reflexes. Falls risk can be reduced by taking the medication at bedtime and rising slowly."
+	},
+	{
+		"question-no": 36,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 59-year-old man with hypertension is taking amlodipine, ramipril, and indapamide. Propranolol was recently added. One week later, he presents with new shortness of breath when walking. Which medication is the most likely cause?",
+		"options": {
+			"a": "Amlodipine",
+			"b": "Ramipril",
+			"c": "Indapamide",
+			"d": "Propranolol",
+			"e": "None of the above"
+		},
+		"answer": "d",
+		"explanation": "Propranolol is a non-selective beta-blocker that blocks \u03b22 receptors in the lungs, causing bronchoconstriction and shortness of breath. This is particularly problematic in patients with reactive airways.",
+		"original-question-no": "Question 36 of 97",
+		"id": "c4c22223-c300-42ce-932c-e827f435e363",
+		"extended_explanation": "Non-selective beta-blockers are contraindicated in asthma and COPD due to risk of bronchospasm. Even in patients without known airways disease, they can cause exercise-induced bronchoconstriction. Cardioselective beta-blockers (e.g., bisoprolol) are preferred in hypertension with respiratory disease as they have less \u03b22 effect at low doses."
+	},
+	{
+		"question-no": 37,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 5-year-old girl presents with a dry, barking cough and stridor. Earlier in the week she had a runny nose and fever. She has no signs of respiratory distress, and her vital signs are stable. What is the most appropriate management?",
+		"options": {
+			"a": "Dexamethasone",
+			"b": "Nebulised adrenaline",
+			"c": "Oral antibiotics",
+			"d": "Adrenaline",
+			"e": "Prednisolone"
+		},
+		"answer": "a",
+		"explanation": "This is mild croup. Dexamethasone 0.15-0.3 mg/kg PO is first-line treatment, reducing inflammation and improving symptoms within hours. Nebulised adrenaline is reserved for moderate-severe croup with respiratory distress.",
+		"original-question-no": "Question 37 of 97",
+		"id": "7f60db27-5523-4be6-ac14-ac2c6f33ca35",
+		"extended_explanation": "Croup is caused by parainfluenza virus and typically affects children aged 6 months to 3 years. The barking cough and stridor result from subglottic inflammation. Dexamethasone reduces airway oedema and length of hospital stay. Its long half-life (36-72 hours) means a single dose is usually sufficient."
+	},
+	{
+		"question-no": 38,
+		"category": "samson-mock-15",
+		"sub-category": "Gynaecology",
+		"question": "A 62-year-old woman presents with post-menopausal vaginal bleeding. What is the most appropriate initial investigation?",
+		"options": {
+			"a": "Transvaginal pelvic ultrasound",
+			"b": "Colposcopy",
+			"c": "Endometrial biopsy",
+			"d": "Cervical smear",
+			"e": "Vulval biopsy",
+			"f": "Hysteroscopy",
+			"g": "MRI pelvis",
+			"h": "CT abdomen and pelvis"
+		},
+		"answer": "a",
+		"explanation": "Transvaginal ultrasound is the first-line investigation for post-menopausal bleeding to measure endometrial thickness. If the endometrium >4mm, further investigation with biopsy/hysteroscopy is indicated.",
+		"original-question-no": "Question 38 of 97",
+		"id": "56919c5c-75b2-4513-b93b-2170e90ec0c0",
+		"extended_explanation": "Post-menopausal bleeding is endometrial cancer until proven otherwise. TVUS has excellent negative predictive value - an endometrial thickness <4 mm effectively excludes cancer. This should be followed by outpatient hysteroscopy and biopsy if thickened. Age >45 with bleeding is an urgent cancer referral criterion."
+	},
+	{
+		"question-no": 39,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 6-month-old infant is noted to have a large head circumference, with short upper and lower limbs compared to the trunk. His motor development is normal. What is the most likely diagnosis?",
+		"options": {
+			"a": "Marfan syndrome",
+			"b": "Achondroplasia",
+			"c": "Turner syndrome",
+			"d": "Noonan syndrome",
+			"e": "Osteogenesis imperfecta"
+		},
+		"answer": "b",
+		"explanation": "Achondroplasia is the most common cause of disproportionate short stature, featuring large head with frontal bossing, short proximal limbs, and normal trunk length. Development is typically normal.",
+		"original-question-no": "Question 39 of 97",
+		"id": "839bb3fe-556b-4d95-97f5-7f5e2c93d7cf",
+		"extended_explanation": "Achondroplasia is an autosomal dominant disorder caused by FGFR3 gene mutation. The characteristic features include rhizomelic shortening (proximal limbs), lumbar lordosis, trident hands, and midface hypoplasia. Intelligence and life expectancy are normal. Hydrocephalus and spinal stenosis are potential complications requiring monitoring."
+	},
+	{
+		"question-no": 40,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 3-year-old girl is brought to the clinic because her parents are concerned about her overall development. She has limited speech, difficulty following simple instructions, cannot run or jump independently, struggles with feeding herself and interacts minimally. What is the most likely diagnosis?",
+		"options": {
+			"a": "Autism spectrum disorder",
+			"b": "ADHD",
+			"c": "Developmental coordination disorder",
+			"d": "Global developmental delay",
+			"e": "Conduct disorder"
+		},
+		"answer": "d",
+		"explanation": "Global developmental delay is diagnosed when a child under 5 shows significant delays in multiple domains (gross/fine motor, speech/language, social, adaptive skills). This child has delays across several areas, not just one domain.",
+		"original-question-no": "Question 40 of 97",
+		"id": "e5047c42-4ac1-4a63-b3e9-335355b195e5",
+		"extended_explanation": "Global developmental delay affects 1-3% of children and requires early intervention services. Causes include genetic syndromes, perinatal insults, and environmental factors. Unlike autism, which primarily affects social communication, GDD involves widespread cognitive and motor impairments. Early assessment by a developmental paediatrician is essential."
+	},
+	{
+		"question-no": 41,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 6-year-old boy has a history of delayed motor milestones including late crawling and walking. He cannot stack blocks, struggles with coordination tasks, and teachers report clumsiness with fine motor skills. He becomes frustrated when tasks are difficult. What is the most likely diagnosis?",
+		"options": {
+			"a": "Autism spectrum disorder",
+			"b": "ADHD",
+			"c": "Developmental coordination disorder",
+			"d": "Global developmental delay",
+			"e": "Conduct disorder"
+		},
+		"answer": "c",
+		"explanation": "Developmental coordination disorder (dyspraxia) presents with delayed motor milestones, poor coordination affecting fine and gross motor tasks, and frustration with motor challenges. Cognition and language are typically normal.",
+		"original-question-no": "Question 41 of 97",
+		"id": "f2c7dfe1-bb7d-443e-acea-6583605b3555",
+		"extended_explanation": "DCD affects 5-6% of school-age children and is more common in boys. It persists into adulthood in 50% of cases. Assessment by occupational therapy can identify specific deficits. Intervention focuses on task-specific training, environmental modifications, and addressing comorbidities like ADHD which co-occurs in 50% of cases."
+	},
+	{
+		"question-no": 42,
+		"category": "samson-mock-15",
+		"sub-category": "Rheumatology",
+		"question": "A 29-year-old man with known ankylosing spondylitis reports new numbness over the buttocks for several days. What is the most appropriate referral?",
+		"options": {
+			"a": "Urgent referral to orthopaedics",
+			"b": "Routine referral to rheumatology",
+			"c": "Emergency admission",
+			"d": "Routine referral to physiotherapy",
+			"e": "MRI spine urgently"
+		},
+		"answer": "b",
+		"explanation": "New neurological symptoms without red flags (saddle anaesthesia, bladder dysfunction, progressive weakness) can be managed with routine rheumatology review. Ankylosing spondylitis requires periodic monitoring for spinal complications.",
+		"original-question-no": "Question 42 of 97",
+		"id": "3dbc8c77-53d5-45e2-b922-a3d2820c9034",
+		"extended_explanation": "Cauda equina syndrome is the main red flag requiring emergency MRI and surgical decompression. The absence of saddle anaesthesia, urinary retention, and progressive leg weakness makes this less likely. Routine rheumatology follow-up allows monitoring of disease activity, spinal progression, and extra-articular manifestations."
+	},
+	{
+		"question-no": 43,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 35-year-old man recently started an antipsychotic. He now presents with tachycardia, fever, muscle rigidity, and neck stiffness. Which investigation is most appropriate?",
+		"options": {
+			"a": "Serum prolactin",
+			"b": "Creatine kinase (CK)",
+			"c": "CT head",
+			"d": "Full blood count",
+			"e": "Thyroid function tests"
+		},
+		"answer": "b",
+		"explanation": "This presentation suggests neuroleptic malignant syndrome. Creatine kinase is markedly elevated due to severe muscle rigidity and breakdown, and is the key diagnostic test.",
+		"original-question-no": "Question 43 of 97",
+		"id": "2828146d-3961-4609-ae83-aeb3e707786a",
+		"extended_explanation": "NMS is characterised by fever, rigidity, autonomic dysfunction, and altered consciousness occurring days to weeks after starting antipsychotics. CK levels often exceed 1000 IU/L and correlate with muscle breakdown severity. Treatment involves stopping the offending drug, supportive care, and sometimes dantrolene or bromocriptine."
+	},
+	{
+		"question-no": 44,
+		"category": "samson-mock-15",
+		"sub-category": "Urology",
+		"question": "A 68-year-old man recently started a new medication for urinary urgency. He now reports visual disturbance and has had several falls. Which medication is the most likely cause?",
+		"options": {
+			"a": "Tamsulosin",
+			"b": "Oxybutynin",
+			"c": "Alfuzosin",
+			"d": "Finasteride",
+			"e": "Goserelin"
+		},
+		"answer": "b",
+		"explanation": "Oxybutynin is an antimuscarinic that causes anticholinergic side effects including blurred vision, confusion and falls in the elderly. It is listed in the Beers Criteria as potentially inappropriate for older adults.",
+		"original-question-no": "Question 44 of 97",
+		"id": "6b7d1b22-4689-46f9-8c46-06a2c107a628",
+		"extended_explanation": "Antimuscarinics block muscarinic receptors, causing mydriasis (blurred vision), dry mouth, constipation, urinary retention, and cognitive impairment. Elderly patients are particularly susceptible due to reduced cholinergic reserve. The falls risk is compounded by sedation and postural instability. Mirabegron, a \u03b23-agonist, is a safer alternative in the elderly."
+	},
+	{
+		"question-no": 45,
+		"category": "samson-mock-15",
+		"sub-category": "Gastroenterology",
+		"question": "A 57-year-old man presents with mouth ulcers, diarrhoea with mucus, and intermittent abdominal pain. He reports a diet mainly consisting of white bread and white rice. Which is the most appropriate treatment?",
+		"options": {
+			"a": "Leuprorelin",
+			"b": "Prednisolone",
+			"c": "Mebeverine",
+			"d": "Buscopan",
+			"e": "Gluten-free diet"
+		},
+		"answer": "e",
+		"explanation": "The combination of mouth ulcers, mucus diarrhoea, abdominal pain and a high gluten diet is classic for coeliac disease. A lifelong gluten-free diet is the only effective treatment that allows intestinal villi to heal.",
+		"original-question-no": "Question 45 of 97",
+		"id": "99ab4758-7546-483a-a029-7111c862537c",
+		"extended_explanation": "Coeliac disease is an autoimmune condition triggered by gluten in genetically susceptible individuals (HLA-DQ2/DQ8). Diagnosis is confirmed by positive tissue transglutaminase IgA antibodies and duodenal biopsy showing villous atrophy. A strict gluten-free diet should be advised with dietitian support. Even small amounts of cross-contamination can cause ongoing inflammation."
+	},
+	{
+		"question-no": 46,
+		"category": "samson-mock-15",
+		"sub-category": "Gynaecology",
+		"question": "A 34-year-old woman presents with post-coital bleeding. What is the most appropriate investigation?",
+		"options": {
+			"a": "Transvaginal pelvic ultrasound",
+			"b": "Colposcopy",
+			"c": "Endometrial biopsy",
+			"d": "Cervical smear",
+			"e": "Vulval biopsy",
+			"f": "Hysteroscopy",
+			"g": "MRI pelvis",
+			"h": "CT abdomen and pelvis"
+		},
+		"answer": "b",
+		"explanation": "Post-coital bleeding is a red flag for cervical pathology. Colposcopy is required for direct visual assessment of the cervix, not routine screening cytology. This allows targeted biopsy of any abnormal areas.",
+		"original-question-no": "Question 46 of 97",
+		"id": "54e0a611-1554-4d40-9940-a07811958803",
+		"extended_explanation": "Post-coital bleeding can be caused by cervical ectropion, polyps, infection, or cervical cancer. The cervix should be inspected visually with colposcopy to identify any lesions suspicious for dysplasia or malignancy. Cervical cytology alone is insufficient as it may miss lesions. If the cervix appears normal, STI testing and endometrial assessment may be indicated."
+	},
+	{
+		"question-no": 47,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 15-year-old girl presents with short stature, delayed puberty, and webbed neck folds. She has not yet had a menstrual period. What is the most likely diagnosis?",
+		"options": {
+			"a": "Edwards syndrome",
+			"b": "Patau syndrome",
+			"c": "Down syndrome",
+			"d": "Turner syndrome",
+			"e": "Fragile X syndrome"
+		},
+		"answer": "d",
+		"explanation": "Turner syndrome (45,XO) presents with short stature, webbed neck, delayed puberty, primary amenorrhoea, and streak gonads. The karyotype confirms monosomy X.",
+		"original-question-no": "Question 47 of 97",
+		"id": "a6ca28c7-c043-4d6f-a409-640b9743970c",
+		"extended_explanation": "Turner syndrome affects 1 in 2500 live female births. Features include short stature (<5th percentile), primary ovarian failure, webbed neck, low posterior hairline, broad chest with wide-spaced nipples, and cardiovascular anomalies (bicuspid aortic valve, coarctation). Management includes growth hormone therapy, oestrogen replacement for puberty induction, and regular cardiac surveillance."
+	},
+	{
+		"question-no": 48,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 44-year-old woman presents with hyperthyroidism and eye discomfort. Blood tests show positive TPO antibodies. What is the most likely diagnosis?",
+		"options": {
+			"a": "Subacute thyroiditis",
+			"b": "Hashimoto thyroiditis",
+			"c": "Graves' disease",
+			"d": "Amiodarone-induced thyroid dysfunction",
+			"e": "Toxic multinodular goitre",
+			"f": "Toxic adenoma",
+			"g": "Pituitary TSH-secreting tumour",
+			"h": "Postpartum thyroiditis"
+		},
+		"answer": "c",
+		"explanation": "Hyperthyroidism with eye involvement (orbitopathy) and positive TPO antibodies indicates Graves' disease. While TPO antibodies can be positive in Hashimoto's, the hyperthyroid state and eye disease point to Graves'.",
+		"original-question-no": "Question 48 of 97",
+		"id": "ec4737cc-b1ac-4766-a077-832c5b7f9abc",
+		"extended_explanation": "Graves' ophthalmopathy is autoimmune-mediated by TSH receptor antibodies (TRAb) that cross-react with orbital fibroblasts. It causes proptosis, periorbital oedema, conjunctival injection, and ophthalmoplegia. TPO antibodies are often positive but TRAbs are specific for Graves'. Treatment includes antithyroid drugs \u00b1 radioiodine or surgery, with ophthalmology input for eye disease."
+	},
+	{
+		"question-no": 49,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 76-year-old patient becomes confused after surgery. He is taking naproxen, metformin, co-amoxiclav, and co-codamol. Which medication should be stopped?",
+		"options": {
+			"a": "Stop naproxen",
+			"b": "Stop metformin",
+			"c": "Stop co-codamol",
+			"d": "Stop antibiotics",
+			"e": "Paracetamol"
+		},
+		"answer": "c",
+		"explanation": "Co-codamol contains codeine which can cause confusion, sedation and constipation, worsening dehydration post-operatively. It should be stopped in this confused, dehydrated patient.",
+		"original-question-no": "Question 49 of 97",
+		"id": "21a8109a-5681-4b53-a4e1-18fd6d6a668b",
+		"extended_explanation": "Codeine is an opioid metabolized to morphine. In the elderly, reduced hepatic function can lead to accumulation and prolonged sedation. Constipation from opioids can worsen postoperative ileus. Alternative analgesia like regular paracetamol with PRN morphine allows better titration and reduces delirium risk."
+	},
+	{
+		"question-no": 50,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 58-year-old patient taking naproxen is found to have a prolonged bleeding time and prolonged APTT. Which medication should be stopped?",
+		"options": {
+			"a": "Stop naproxen",
+			"b": "Stop metformin",
+			"c": "Stop co-codamol",
+			"d": "Stop antibiotics",
+			"e": "Paracetamol"
+		},
+		"answer": "a",
+		"explanation": "NSAIDs impair platelet function by inhibiting COX-1, increasing bleeding risk. A prolonged APTT while taking naproxen is unsafe and the drug should be stopped.",
+		"original-question-no": "Question 50 of 97",
+		"id": "ba7f4de5-5532-49cc-8e7f-63bf6765dcf0",
+		"extended_explanation": "Naproxen causes irreversible platelet inhibition for the platelet lifespan (7-10 days), unlike aspirin which is irreversible but short half-life. This increases risk of GI bleeding and perioperative haemorrhage. If NSAID is required, consider COX-2 selective agents which have less platelet effect, but still increase bleeding risk."
+	},
+	{
+		"question-no": 51,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 15-year-old girl presents with short stature, delayed puberty, and webbed neck folds. She has not yet had a menstrual period. What is the most appropriate investigation?",
+		"options": {
+			"a": "Thyroid function test",
+			"b": "LH and FSH",
+			"c": "Karyotype analysis",
+			"d": "Pelvic ultrasound",
+			"e": "Serum prolactin"
+		},
+		"answer": "c",
+		"explanation": "This classic presentation of Turner syndrome (45,XO) is confirmed by karyotype analysis showing monosomy X. This is the definitive diagnostic test.",
+		"original-question-no": "Question 51 of 97",
+		"id": "2611bdca-754a-4e0b-88ed-6c34d3be45c5",
+		"extended_explanation": "Karyotyping should be performed on peripheral blood lymphocytes. In mosaic Turner syndrome (45,X/46,XX), the phenotype may be milder. After diagnosis, cardiac MRI, renal ultrasound, and bone density assessment are indicated. Oestrogen replacement therapy and growth hormone are standard treatments."
+	},
+	{
+		"question-no": 52,
+		"category": "samson-mock-15",
+		"sub-category": "Oncology",
+		"question": "A 70-year-old woman with a history of breast cancer presents with abdominal pain, polyuria and confusion. What is the most likely cause?",
+		"options": {
+			"a": "Hyponatraemia",
+			"b": "Hypocalcaemia",
+			"c": "Hyperkalaemia",
+			"d": "Hypokalaemia",
+			"e": "Hypercalcaemia"
+		},
+		"answer": "e",
+		"explanation": "Breast cancer commonly metastasizes to bone and can produce PTHrP causing hypercalcaemia of malignancy. This presents with polyuria, polydipsia, abdominal pain, and confusion - the classic 'stones, bones, abdominal groans, and psychic moans'.",
+		"original-question-no": "Question 52 of 97",
+		"id": "aee3a58f-4a51-463a-90e6-0daf67ab4395",
+		"extended_explanation": "Hypercalcaemia of malignancy occurs in 10-20% of cancer patients. Breast cancer secretes PTHrP which mimics PTH, causing increased bone resorption and renal calcium retention. Symptoms correlate with calcium level >3.0 mmol/L. Treatment includes aggressive IV fluids, bisphosphonates (zoledronic acid), and addressing the underlying malignancy."
+	},
+	{
+		"question-no": 53,
+		"category": "samson-mock-15",
+		"sub-category": "Cardiology",
+		"question": "A 72-year-old man reports falling when he stands up from sitting. He becomes light-headed within seconds of standing. His blood pressure is normal when sitting but drops significantly on standing. What is the most appropriate investigation?",
+		"options": {
+			"a": "ECG",
+			"b": "24-hour Holter monitor",
+			"c": "Echocardiogram",
+			"d": "Tilt-table test",
+			"e": "Carotid Doppler"
+		},
+		"answer": "d",
+		"explanation": "Tilt-table testing is the standardised investigation for confirming orthostatic hypotension and distinguishing autonomic failure from vasovagal syncope when bedside BP measurements are suggestive but further assessment is needed.",
+		"original-question-no": "Question 53 of 97",
+		"id": "932900fe-e3c9-4bcc-91cb-bdc1a00f8fd7",
+		"extended_explanation": "Orthostatic hypotension is defined as a fall in systolic BP \u226520mmHg or diastolic \u226510mmHg within 3 minutes of standing. The tilt-table test reproduces symptoms under controlled conditions and can assess heart rate and blood pressure responses. It helps differentiate neurogenic orthostatic hypotension (no HR increase) from POTS (excessive HR increase) and vasovagal syncope."
+	},
+	{
+		"question-no": 54,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 2-year-old child presents with abdominal distension and is passing bloody, mucoid stools. She is intermittently unsettled but has no clear history of trauma. What is the most likely diagnosis?",
+		"options": {
+			"a": "Intussusception",
+			"b": "Hirschsprung disease",
+			"c": "Mesenteric adenitis",
+			"d": "Appendicitis",
+			"e": "Gastroenteritis"
+		},
+		"answer": "a",
+		"explanation": "The classic triad of intermittent abdominal pain, abdominal distension, and 'red currant jelly' stools (blood mixed with mucus) is pathognomonic for intussusception. It most commonly occurs between 6 months and 3 years of age.",
+		"original-question-no": "Question 54 of 97",
+		"id": "fc4814f9-20ff-4bd0-9cce-83e86fcef3d1",
+		"extended_explanation": "Intussusception occurs when a segment of bowel telescopes into the adjacent distal segment, causing venous congestion and ischaemia. The 'red currant jelly' stool represents sloughed mucosa and blood. Diagnosis is confirmed by ultrasound showing the 'target sign' of concentric bowel layers. Treatment is urgent radiological or surgical reduction to prevent bowel necrosis."
+	},
+	{
+		"question-no": 55,
+		"category": "samson-mock-15",
+		"sub-category": "Ophthalmology",
+		"question": "A 27-year-old woman presents with a gritty sensation in her eyes for 4 years. She has tried various lubricating eye drops with no improvement. What is the most appropriate management?",
+		"options": {
+			"a": "Routine referral",
+			"b": "Urgent referral",
+			"c": "2-week suspected cancer referral",
+			"d": "No referral indicated"
+		},
+		"answer": "a",
+		"explanation": "Chronic gritty eye sensation in a young woman suggests thyroid eye disease. Routine ophthalmology referral is appropriate for assessment of thyroid eye disease without red-flag features like reduced visual acuity or proptosis.",
+		"original-question-no": "Question 55 of 97",
+		"id": "6a32c106-96c2-4937-a735-11d17124ae1e",
+		"extended_explanation": "Thyroid eye disease is autoimmune and associated with Graves' disease. Symptoms include dry/gritty eyes, photophobia, and diplopia. Urgent referral is only needed for optic nerve compression signs (reduced vision, colour desaturation) or severe proptosis. Routine referral allows ophthalmology assessment for disease activity and monitoring."
+	},
+	{
+		"question-no": 56,
+		"category": "samson-mock-15",
+		"sub-category": "Rheumatology",
+		"question": "An 80-year-old woman presents with fever, fatigue, unintentional weight loss and she has a collapsed nasal bridge. What is the most appropriate investigation?",
+		"options": {
+			"a": "Subacute thyroiditis",
+			"b": "Hashimoto thyroiditis",
+			"c": "Graves' disease",
+			"d": "Amiodarone-induced thyroid dysfunction",
+			"e": "Serum c-ANCA"
+		},
+		"answer": "e",
+		"explanation": "The combination of constitutional symptoms and saddle-nose deformity suggests granulomatosis with polyangiitis (Wegener's). c-ANCA is positive in 80-90% of cases and is the best initial investigation.",
+		"original-question-no": "Question 56 of 97",
+		"id": "c96219dd-b637-4860-b53a-4433b564b4be",
+		"extended_explanation": "Granulomatosis with polyangiitis (GPA) is a small-vessel vasculitis affecting upper airways, lungs, and kidneys. c-ANCA targets proteinase-3 (PR3) and has high specificity for GPA. Saddle-nose deformity results from cartilage destruction. The condition requires urgent immunosuppression with cyclophosphamide or rituximab plus high-dose steroids."
+	},
+	{
+		"question-no": 57,
+		"category": "samson-mock-15",
+		"sub-category": "Neurology",
+		"question": "A 29-year-old woman presents with blurred vision in one eye and pain on eye movement. She reports that colours appear 'washed out.' Neurological examination is otherwise normal. What is the most likely diagnosis?",
+		"options": {
+			"a": "Subacute thyroiditis",
+			"b": "Hashimoto thyroiditis",
+			"c": "Graves' disease",
+			"d": "Amiodarone-induced thyroid dysfunction",
+			"e": "Optic neuritis"
+		},
+		"answer": "e",
+		"explanation": "Optic neuritis presents with painful eye movement, reduced visual acuity, and colour desaturation. It is often associated with multiple sclerosis. Pain occurs because inflamed optic nerve sheath is tugged during eye movements.",
+		"original-question-no": "Question 57 of 97",
+		"id": "e25ddd00-7d1a-446b-b2c8-f67f2aed0c98",
+		"extended_explanation": "Optic neuritis is the presenting feature of MS in 20% of cases. The diagnosis is confirmed by MRI showing optic nerve enhancement and periventricular white matter lesions. Management includes high-dose IV methylprednisolone for severe vision loss. Most patients recover vision partially or completely over weeks to months, but recurrent episodes can cause permanent damage."
+	},
+	{
+		"question-no": 58,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 52-year-old man recently started a new medication for hypertension. After one week, he develops a rash and a sore throat. He feels feverish but has no cough. Which medication is most likely responsible?",
+		"options": {
+			"a": "Amlodipine",
+			"b": "Bisoprolol",
+			"c": "Lisinopril",
+			"d": "Doxazosin",
+			"e": "Bendroflumethiazide"
+		},
+		"answer": "c",
+		"explanation": "Lisinopril, an ACE inhibitor, can cause agranulocytosis leading to sore throat and fever. It can also cause rash and hypersensitivity reactions. A full blood count should be checked urgently.",
+		"original-question-no": "Question 58 of 97",
+		"id": "11e94cea-ecf5-405e-8b33-917c33aebf0f",
+		"extended_explanation": "ACE inhibitors can cause rare (0.02%) but serious neutropenia, typically within the first 3 months. The combination of sore throat and rash should trigger an urgent FBC. Other side effects include dry cough (10-15%), angioedema (0.1-0.2%), and hyperkalaemia. If neutropenia is confirmed, the ACE inhibitor must be stopped permanently."
+	},
+	{
+		"question-no": 59,
+		"category": "samson-mock-15",
+		"sub-category": "Urology",
+		"question": "A 45-year-old man presents with erectile dysfunction that began shortly after starting a relationship with a new partner. What is the most likely diagnosis?",
+		"options": {
+			"a": "Vascular erectile dysfunction",
+			"b": "Performance anxiety",
+			"c": "Hypogonadism",
+			"d": "Diabetic neuropathy",
+			"e": "Side effect of medication"
+		},
+		"answer": "b",
+		"explanation": "Sudden onset ED related to a specific situation (new partner) without underlying comorbidities suggests psychogenic erectile dysfunction from performance anxiety. This is the most common cause in younger men.",
+		"original-question-no": "Question 59 of 97",
+		"id": "5c5071d9-4555-4eeb-9c5f-e38c2255abf6",
+		"extended_explanation": "Psychogenic ED often has intermittent symptoms, preserved nocturnal erections, and situational pattern. It responds well to cognitive behavioural therapy and PDE5 inhibitors. Organic causes like vascular disease are gradual and associated with risk factors (diabetes, hypertension, smoking). Morning testosterone levels should be checked if libido is reduced."
+	},
+	{
+		"question-no": 60,
+		"category": "samson-mock-15",
+		"sub-category": "Gastroenterology",
+		"question": "A 24-year-old man has elevated bilirubin levels, but normal AST and ALT. What is the SINGLE most likely cause?",
+		"options": {
+			"a": "Autoimmune Hepatitis",
+			"b": "Gilbert's Syndrome",
+			"c": "Gallstones"
+		},
+		"answer": "b",
+		"explanation": "Isolated unconjugated hyperbilirubinaemia with normal liver enzymes is characteristic of Gilbert's syndrome, a benign inherited condition affecting bilirubin conjugation.",
+		"original-question-no": "Question 60 of 97",
+		"id": "df402aa1-5c9a-4285-ac7a-89f6384f932c",
+		"extended_explanation": "Gilbert's syndrome is an autosomal recessive condition caused by reduced UGT1A1 enzyme activity, affecting 5-10% of the population. It is often asymptomatic but may cause mild jaundice during stress, illness, fasting, or dehydration. No treatment is required, but patients should be reassured. It must be distinguished from haemolysis (which would have raised reticulocytes) and liver disease (which would have abnormal LFTs)."
+	},
+	{
+		"question-no": 61,
+		"category": "samson-mock-15",
+		"sub-category": "Gynaecology",
+		"question": "A 33-year-old woman, a heavy smoker, who has completed her family, presents with heavy menstrual bleeding. She is otherwise well. Which is the most appropriate management?",
+		"options": {
+			"a": "Combined oral contraceptive pill (COCP)",
+			"b": "Progestogen-only pill (POP)",
+			"c": "Copper IUCD",
+			"d": "Depot medroxyprogesterone injection (Depo-Provera)",
+			"e": "Levonorgestrel intrauterine system (Mirena IUS)"
+		},
+		"answer": "e",
+		"explanation": "The levonorgestrel IUS is first-line for heavy menstrual bleeding, reducing blood loss by up to 90%. It is safe for smokers and provides long-term relief without the cardiovascular risks of COCP in smokers >35.",
+		"original-question-no": "Question 61 of 97",
+		"id": "e84b29cf-7cbd-4548-b214-67ff4c0a4368",
+		"extended_explanation": "NICE NG88 recommends levonorgestrel IUS as first-line for heavy menstrual bleeding. It works by inducing endometrial atrophy. Other benefits include contraception and reduced menstrual pain. The COCP is contraindicated in smokers >35 due to increased VTE and stroke risk. Tranexamic acid and NSAIDs can be used if IUS is not acceptable, but are less effective."
+	},
+	{
+		"question-no": 62,
+		"category": "samson-mock-15",
+		"sub-category": "Urology",
+		"question": "A 16-year-old boy presents to the Emergency Department with sudden severe testicular pain. On examination, the testis is tender, high-riding, and the cremasteric reflex is absent. What is the most appropriate management?",
+		"options": {
+			"a": "Reassure and discharge",
+			"b": "Schedule ultrasound for tomorrow",
+			"c": "Admit to urology immediately",
+			"d": "Prescribe antibiotics",
+			"e": "Refer to general surgery clinic"
+		},
+		"answer": "c",
+		"explanation": "This is classic testicular torsion - a surgical emergency requiring immediate urology admission for scrotal exploration and detorsion within 6 hours to prevent testicular loss. Delay for imaging is unsafe.",
+		"original-question-no": "Question 62 of 97",
+		"id": "4a03eac0-70d4-4a5e-bfa4-3cb874e80ad7",
+		"extended_explanation": "Testicular torsion has a salvage rate of 90-100% if treated within 6 hours, dropping to <50% after 12 hours. The absent cremasteric reflex is the most reliable clinical sign. Manual detorsion may be attempted while awaiting surgery, but operative fixation (orchidopexy) is definitive, with contralateral fixation performed prophylactically. Doppler ultrasound should not delay surgery if clinical suspicion is high."
+	},
+	{
+		"question-no": 63,
+		"category": "samson-mock-15",
+		"sub-category": "ENT",
+		"question": "A 46-year-old woman reports rhythmic tinnitus that is synchronised with her heartbeat. What is the most appropriate next step?",
+		"options": {
+			"a": "Routine ENT referral",
+			"b": "CT scan of the temporal bone",
+			"c": "Audiometry",
+			"d": "Urgent ENT referral",
+			"e": "Reassurance"
+		},
+		"answer": "d",
+		"explanation": "Pulsatile tinnitus is a red flag for vascular abnormalities (AV malformations, glomus tumour, carotid stenosis) or intracranial hypertension. It requires urgent ENT referral and imaging (MRI/MRA) to exclude serious causes.",
+		"original-question-no": "Question 63 of 97",
+		"id": "ffe7d031-e6b5-44d2-84b9-5762fe61cc32",
+		"extended_explanation": "Pulsatile tinnitus is objective (can be heard by examiner with stethoscope) in 10% of cases. High-yield causes include paraganglioma (glomus tumour), arteriovenous malformations, carotid artery dissection, and dural arteriovenous fistula. These can be associated with life-threatening complications including intracranial haemorrhage. Urgent MRI/MRA is required, and ENT referral should not be delayed."
+	},
+	{
+		"question-no": 64,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 34-year-old man was recently started on erythromycin. He now reports a strange sensation of insects crawling all over his body. He also noticed that his urine becomes darker when standing. What is the most likely diagnosis?",
+		"options": {
+			"a": "Serotonin syndrome",
+			"b": "Acute porphyria",
+			"c": "Opioid withdrawal",
+			"d": "Allergic reaction",
+			"e": "Psychosis"
+		},
+		"answer": "b",
+		"explanation": "Formication (insect crawling sensation) and dark urine on standing are classic for acute porphyria. Erythromycin is a porphyrinogenic drug that can trigger attacks in susceptible individuals by inducing ALA synthase.",
+		"original-question-no": "Question 64 of 97",
+		"id": "0a6bdc9c-ceaf-48bc-93b4-b5d644267763",
+		"extended_explanation": "Acute intermittent porphyria is an autosomal dominant deficiency of porphobilinogen deaminase. Drugs that induce cytochrome P450 (erythromycin, anticonvulsants, OCPs) precipitate attacks by increasing ALA production. Urine darkens due to oxidation of porphyrins to porphobilin. Diagnosis is confirmed by elevated urinary porphobilinogen and genetic testing. Treatment includes haem arginate and stopping precipitating drugs."
+	},
+	{
+		"question-no": 65,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 40-year-old man presents with erectile dysfunction, low libido, and weight gain. Which investigation is the most appropriate initial test?",
+		"options": {
+			"a": "Serum testosterone",
+			"b": "SHBG (Sex Hormone Binding Globulin)",
+			"c": "HbA1c"
+		},
+		"answer": "a",
+		"explanation": "Morning serum total testosterone is the first-line test for hypogonadism in men with ED and low libido. NICE recommends checking testosterone at 7-11am, with repeat if <12 nmol/L. Obesity and metabolic syndrome commonly cause low testosterone.",
+		"original-question-no": "Question 65 of 97",
+		"id": "9b43deb4-b79d-4c9a-9f6e-067cbbeb0e91",
+		"extended_explanation": "Late-onset hypogonadism affects 20-40% of men >40 years with obesity. Testosterone should be measured in the morning (8-11am) when levels peak. If low, LH/FSH help differentiate primary (high gonadotrophins) from secondary (low/normal gonadotrophins) hypogonadism. SHBG is measured if obesity or thyroid dysfunction is suspected. Treatment with testosterone replacement improves sexual function, mood and body composition."
+	},
+	{
+		"question-no": 66,
+		"category": "samson-mock-15",
+		"sub-category": "Gynaecology",
+		"question": "A 37-year-old woman who smokes presents with heavy menstrual bleeding. She is not trying to conceive and prefers long-term management. What is the most appropriate treatment?",
+		"options": {
+			"a": "Combined oral contraceptive pill",
+			"b": "Tranexamic acid",
+			"c": "Oral norethisterone",
+			"d": "Intrauterine system (Mirena IUS)",
+			"e": "Endometrial ablation"
+		},
+		"answer": "d",
+		"explanation": "The levonorgestrel IUS is the preferred long-term treatment for heavy menstrual bleeding in this scenario. It is safe for smokers, highly effective at reducing blood loss, and provides contraception without the risks of COCP in smokers >35.",
+		"original-question-no": "Question 66 of 97",
+		"id": "a10842ad-c5ef-41c2-bcb1-f50cf7c10b90",
+		"extended_explanation": "NICE NG88 recommends levonorgestrel IUS as first-line for heavy menstrual bleeding regardless of smoking status. It reduces menstrual blood loss by 90% within 3-6 months and has similar efficacy to endometrial ablation after 2 years. COCP is contraindicated in smokers >35 due to increased VTE risk. Tranexamic acid is useful short-term but not ideal for long-term management."
+	},
+	{
+		"question-no": 67,
+		"category": "samson-mock-15",
+		"sub-category": "Gastroenterology",
+		"question": "A 55-year-old man presents with intermittent upper abdominal pain that radiates to the back. What is the most appropriate initial investigation?",
+		"options": {
+			"a": "ERCP",
+			"b": "Abdominal ultrasound (USS)",
+			"c": "CT abdomen",
+			"d": "MRI abdomen",
+			"e": "Endoscopy"
+		},
+		"answer": "b",
+		"explanation": "Pain radiating to the back suggests biliary colic or pancreatitis. Ultrasound is the first-line investigation to detect gallstones, bile duct dilatation, or pancreatic inflammation. It is non-invasive, inexpensive and has no radiation.",
+		"original-question-no": "Question 67 of 97",
+		"id": "960e2025-bc42-4611-ad88-3b31fc07b2be",
+		"extended_explanation": "Gallstones are the most common cause of pancreatitis and can be difficult to see on CT. Ultrasound has 90% sensitivity for stones. If USS is negative but clinical suspicion remains high, MRCP can detect small stones in the bile duct. Endoscopy is used therapeutically (ERCP) for stone removal, not diagnostically as first-line."
+	},
+	{
+		"question-no": 68,
+		"category": "samson-mock-15",
+		"sub-category": "Emergency Medicine",
+		"question": "A 52-year-old woman, 5 days after a hysterectomy, presents with a fever of 38\u00b0C, new breathlessness, and reduced oxygen saturation. What is the most appropriate next investigation?",
+		"options": {
+			"a": "Chest X-ray",
+			"b": "CT pulmonary angiography (CTPA)",
+			"c": "D-dimer",
+			"d": "Ultrasound of the legs",
+			"e": "MRI scan"
+		},
+		"answer": "b",
+		"explanation": "Post-operative breathlessness with hypoxia 5 days after major pelvic surgery is highly suspicious for pulmonary embolism. CTPA is the definitive investigation. D-dimer is not useful post-operatively as it will be elevated.",
+		"original-question-no": "Question 68 of 97",
+		"id": "b4b14f6c-d00a-4883-9222-20fe0369e2f7",
+		"extended_explanation": "The Wells PE score would be high (post-operative, tachycardia, hypoxia). CTPA can confirm PE and assess right ventricular strain, guiding treatment (thrombolysis if massive PE). A D-dimer would be falsely positive after surgery. Leg ultrasound may detect DVT but doesn't confirm PE and would delay treatment."
+	},
+	{
+		"question-no": 69,
+		"category": "samson-mock-15",
+		"sub-category": "Neurology",
+		"question": "A 45-year-old patient is diagnosed with a temporal lobe tumour. What is the most likely visual field defect?",
+		"options": {
+			"a": "Central scotoma",
+			"b": "Papilloedema",
+			"c": "Relative afferent pupillary defect",
+			"d": "Bitemporal hemianopia",
+			"e": "Superior homonymous quadrantanopia",
+			"f": "Normal fundoscopy",
+			"g": "Right homonymous hemianopia",
+			"h": "Inferior homonymous quadrantanopia"
+		},
+		"answer": "e",
+		"explanation": "Temporal lobe tumours compress Meyer's loop (inferior optic radiations) causing contralateral superior quadrantanopia ('pie in the sky' defect).",
+		"original-question-no": "Question 69 of 97",
+		"id": "e6b195c0-3732-429b-ad27-2ced51bb8266",
+		"extended_explanation": "The visual pathway: optic nerves \u2192 chiasm \u2192 optic tracts \u2192 lateral geniculate body \u2192 optic radiations \u2192 visual cortex. Meyer's loop carries inferior visual field information and sweeps anteriorly into the temporal lobe. Compression spares the superior visual field (carried in parietal lobe). This is an important localising sign in temporal lobe pathology."
+	},
+	{
+		"question-no": 70,
+		"category": "samson-mock-15",
+		"sub-category": "Neurology",
+		"question": "A 50-year-old man presents with a newly diagnosed parietal lobe tumour on the left side. What is the most likely visual field defect?",
+		"options": {
+			"a": "Central scotoma",
+			"b": "Papilloedema",
+			"c": "Relative afferent pupillary defect",
+			"d": "Bitemporal hemianopia",
+			"e": "Superior homonymous quadrantanopia",
+			"f": "Normal fundoscopy",
+			"g": "Right homonymous hemianopia",
+			"h": "Inferior homonymous quadrantanopia"
+		},
+		"answer": "h",
+		"explanation": "Left parietal lobe tumours compress the superior optic radiations carrying inferior visual field information, causing right inferior quadrantanopia ('pie on the floor' defect).",
+		"original-question-no": "Question 70 of 97",
+		"id": "20cf43af-c611-40f1-8b2e-a94f3000a34e",
+		"extended_explanation": "The superior optic radiations (carrying inferior visual field) pass through the parietal lobe. Parietal lesions therefore affect the contralateral inferior quadrant. In contrast to temporal lobe lesions (superior quadrantanopia), parietal lesions are often denser and more congruous. Extensive lesions may progress to right homonymous hemianopia."
+	},
+	{
+		"question-no": 71,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 55-year-old woman presents with hypertension. On examination, you notice that she has stretch marks and central obesity. Which hormone is the most likely cause?",
+		"options": {
+			"a": "Hydrocortisone",
+			"b": "Thyroxine",
+			"c": "Aldosterone",
+			"d": "Prolactin"
+		},
+		"answer": "a",
+		"explanation": "The combination of hypertension, central obesity and striae suggests Cushing's syndrome caused by excess cortisol (hydrocortisone) production. This could be ACTH-dependent (pituitary adenoma) or ACTH-independent (adrenal tumour).",
+		"original-question-no": "Question 71 of 97",
+		"id": "efddc71a-8e55-4b82-b573-f3db4d9cf3d4",
+		"extended_explanation": "Cortisol excess causes catabolism with protein wasting (skin thinning, striae), central fat deposition, hypertension (via mineralocorticoid effects), glucose intolerance, and mood changes. Diagnosis is confirmed by 1mg overnight dexamethasone suppression test (cortisol fails to suppress <50 nmol/L) or 24-hour urinary free cortisol. ACTH levels distinguish pituitary (high ACTH) from adrenal (low ACTH) causes."
+	},
+	{
+		"question-no": 72,
+		"category": "samson-mock-15",
+		"sub-category": "Rheumatology",
+		"question": "A 38-year-old woman has median nerve tingling, no muscle weakness, and symptoms for 2 months. She tried splinting but still has significant discomfort. Which treatment is recommended next?",
+		"options": {
+			"a": "Oral corticosteroids",
+			"b": "Local corticosteroid injection",
+			"c": "Immediate surgery",
+			"d": "Occupational therapy",
+			"e": "Vitamin B12 supplementation"
+		},
+		"answer": "b",
+		"explanation": "NICE recommends local corticosteroid injection when splints have failed to relieve symptoms in carpal tunnel syndrome. This provides short-to-medium term relief by reducing inflammation around the median nerve.",
+		"original-question-no": "Question 72 of 97",
+		"id": "0fb4b4a8-da65-4d8d-abd9-6ca6620510c9",
+		"extended_explanation": "Corticosteroid injection (e.g., methylprednisolone 40mg) into the carpal tunnel can provide relief for 1-3 months. It is less effective if symptoms >1 year or there is constant numbness/muscle wasting. Ultrasound guidance improves accuracy. Surgery is indicated for severe cases or if injection benefit is short-lived (<1 month)."
+	},
+	{
+		"question-no": 73,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 32-year-old man with muscle twitching but asymptomatic. Blood tests show magnesium 0.70 mmol/L (normal range). What is the most appropriate management?",
+		"options": {
+			"a": "Oral magnesium",
+			"b": "Parenteral magnesium",
+			"c": "Oral hydration",
+			"d": "IV hydration",
+			"e": "Change PPI",
+			"f": "Admit",
+			"g": "Reassure"
+		},
+		"answer": "g",
+		"explanation": "Muscle twitching with normal magnesium (0.70 mmol/L) and normal other electrolytes is likely benign fasciculations from stress, caffeine or exercise. No biochemical abnormality requires intervention. Reassurance is appropriate.",
+		"original-question-no": "Question 73 of 97",
+		"id": "f8004eea-1270-4ccc-9b03-26577c567751",
+		"extended_explanation": "Benign fasciculations are common and can be triggered by anxiety, caffeine, dehydration, and strenuous exercise. They are usually intermittent and not associated with muscle weakness. If twitching persists or is accompanied by weakness, cramps, or other neurological signs, further evaluation for electrolyte disturbances, thyroid disease, or motor neuron disease would be warranted."
+	},
+	{
+		"question-no": 74,
+		"category": "samson-mock-15",
+		"sub-category": "Cardiology",
+		"question": "A 62-year-old man presents with a 2-month history of central chest tightness when walking uphill, relieved by rest. Examination and ECG are normal. What is the most appropriate management?",
+		"options": {
+			"a": "Refer to cardiology clinic",
+			"b": "Admit immediately",
+			"c": "Short-acting nitrates + ACE inhibitor or beta-blocker",
+			"d": "Reassure",
+			"e": "No treatment required",
+			"f": "Arrange urgent ECG and troponin",
+			"g": "Start aspirin",
+			"h": "Offer GTN spray for symptomatic relief",
+			"i": "Arrange an exercise tolerance test / functional testing",
+			"j": "Start high-intensity statin therapy"
+		},
+		"answer": "h",
+		"explanation": "This is stable angina. NICE CG126 recommends GTN spray for immediate symptom relief. Secondary prevention with aspirin and high-intensity statin should be started. If symptoms persist, add beta-blocker and arrange functional testing.",
+		"original-question-no": "Question 74 of 97",
+		"id": "bfa5a7e8-b31f-4b3f-8648-659197d5e878",
+		"extended_explanation": "Stable angina is managed with: 1) Short-acting nitrates for symptom relief (GTN 300-600mcg SL), 2) Antiplatelet therapy (aspirin 75mg daily), 3) High-intensity statin (atorvastatin 80mg), 4) Beta-blocker or CCB for symptom control. If symptoms continue despite optimal medical therapy, refer for revascularisation assessment. CT coronary angiography or stress imaging may be used for diagnosis confirmation."
+	},
+	{
+		"question-no": 75,
+		"category": "samson-mock-15",
+		"sub-category": "Cardiology",
+		"question": "A 68-year-old man presents with ankle swelling two weeks after being discharged for a non-ST elevation myocardial infarction (NSTEMI). He complains of breathlessness on exertion and pitting oedema is present to mid-shin. What is the most appropriate management?",
+		"options": {
+			"a": "Refer to cardiology clinic",
+			"b": "Admit immediately",
+			"c": "Short-acting nitrates + ACE inhibitor or beta-blocker",
+			"d": "Reassure",
+			"e": "No treatment required",
+			"f": "Arrange urgent ECG and troponin",
+			"g": "Start aspirin",
+			"h": "Offer GTN spray for symptomatic relief",
+			"i": "Arrange an exercise tolerance test / functional testing",
+			"j": "Start high-intensity statin therapy"
+		},
+		"answer": "b",
+		"explanation": "Lower limb oedema and breathlessness soon after ACS suggests acute heart failure or post-MI complication. This requires urgent hospital admission for diuretics, echocardiogram, and optimisation of cardiac failure therapy.",
+		"original-question-no": "Question 75 of 97",
+		"id": "75d0d47c-0867-486e-90d9-6908a22cfa53",
+		"extended_explanation": "Post-infarction heart failure occurs in 20-30% of patients due to LV systolic dysfunction. The Killip classification can assess severity. Management includes IV loop diuretics (furosemide) for fluid overload, continuation of ACE inhibitor/ARB, beta-blocker once stable, and mineralocorticoid receptor antagonist (spironolactone) if LVEF <40%. Echocardiogram confirms LV function and excludes mechanical complications like papillary muscle rupture or VSD."
+	},
+	{
+		"question-no": 76,
+		"category": "samson-mock-15",
+		"sub-category": "Cardiology",
+		"question": "A 74-year-old woman with a history of angina presents with recurrent chest discomfort at rest over the past week lasting 10-15 minutes. What is the most appropriate management?",
+		"options": {
+			"a": "Refer to cardiology clinic",
+			"b": "Admit immediately",
+			"c": "Short-acting nitrates + ACE inhibitor or beta-blocker",
+			"d": "Reassure",
+			"e": "No treatment required",
+			"f": "Arrange urgent ECG and troponin",
+			"g": "Start aspirin",
+			"h": "Offer GTN spray for symptomatic relief",
+			"i": "Arrange an exercise tolerance test / functional testing",
+			"j": "Start high-intensity statin therapy"
+		},
+		"answer": "b",
+		"explanation": "Rest angina represents unstable angina or possible ACS and requires immediate hospital admission for observation, ECG monitoring, troponins, and intensive medical therapy. This is a medical emergency.",
+		"original-question-no": "Question 76 of 97",
+		"id": "c66ec4f8-3c79-451a-9327-af42eeaa6227",
+		"extended_explanation": "Unstable angina is part of the acute coronary syndrome spectrum along with NSTEMI and STEMI. Risk stratification using GRACE or TIMI scores is required. Management includes dual antiplatelet therapy (aspirin + ticagrelor), anticoagulation (LMWH), high-intensity statin, beta-blocker, and urgent coronary angiography within 72 hours. Refractory pain or dynamic ECG changes warrant emergency angiography."
+	},
+	{
+		"question-no": 77,
+		"category": "samson-mock-15",
+		"sub-category": "Neurology",
+		"question": "A 76-year-old man presents with gait problems, urinary incontinence and gradual cognitive decline. What is the most likely diagnosis?",
+		"options": {
+			"a": "Alzheimer's disease",
+			"b": "Lewy body dementia",
+			"c": "Vascular dementia",
+			"d": "Normal pressure hydrocephalus",
+			"e": "Frontotemporal dementia"
+		},
+		"answer": "d",
+		"explanation": "Normal pressure hydrocephalus presents with the classic triad: gait disturbance ('wobbly'), urinary incontinence ('wet'), and cognitive decline ('wacky'). This is potentially reversible with shunting.",
+		"original-question-no": "Question 77 of 97",
+		"id": "acd44efd-fe17-451a-b256-bf388de50e11",
+		"extended_explanation": "NPH is a communicating hydrocephalus with normal opening pressure on LP. Gait is typically apraxic (magnetic gait) and is the earliest and most prominent feature. MRI shows ventricular enlargement disproportionate to cortical atrophy. A high-volume lumbar puncture (30-50ml CSF removed) can predict response to ventriculoperitoneal shunting. Early diagnosis is crucial as shunting can significantly improve symptoms."
+	},
+	{
+		"question-no": 78,
+		"category": "samson-mock-15",
+		"sub-category": "Neurology",
+		"question": "A 62-year-old woman presents with poor social judgement, rigid thinking, and progressive cognitive impairment. Her family reports disinhibition and personality change. What is the most likely diagnosis?",
+		"options": {
+			"a": "Lewy body dementia",
+			"b": "Vascular dementia",
+			"c": "Alzheimer's disease",
+			"d": "Frontotemporal dementia (Pick's disease)",
+			"e": "Delirium"
+		},
+		"answer": "d",
+		"explanation": "Frontotemporal dementia presents with early behavioural changes, loss of social awareness, disinhibition, and rigid thinking. Memory is relatively preserved early, unlike Alzheimer's disease.",
+		"original-question-no": "Question 78 of 97",
+		"id": "9401c2ba-0e68-4b5c-94d4-3fcc312618c1",
+		"extended_explanation": "FTD is caused by degeneration of frontal and temporal lobes. There are three subtypes: behavioural variant (described here), semantic dementia (loss of word meaning), and progressive non-fluent aphasia. Onset is typically 45-65 years. There is no disease-modifying treatment; management is supportive. MRI shows frontal and/or temporal lobe atrophy."
+	},
+	{
+		"question-no": 79,
+		"category": "samson-mock-15",
+		"sub-category": "Neurology",
+		"question": "A 78-year-old man presents with progressive cognitive impairment, well-formed visual hallucinations, and recurrent falls. He also reports urinary retention. What is the most likely diagnosis?",
+		"options": {
+			"a": "Alzheimer's disease",
+			"b": "Vascular dementia",
+			"c": "Lewy body dementia",
+			"d": "Frontotemporal dementia",
+			"e": "Normal pressure hydrocephalus"
+		},
+		"answer": "c",
+		"explanation": "Lewy body dementia is characterised by visual hallucinations, fluctuating cognition, parkinsonism (causing falls), and autonomic dysfunction including urinary retention. This constellation of features distinguishes it from other dementias.",
+		"original-question-no": "Question 79 of 97",
+		"id": "4b0c2aa7-a5aa-4899-9ad8-bb6a02c4b62b",
+		"extended_explanation": "Lewy body dementia is the second most common dementia after Alzheimer's. It is caused by \u03b1-synuclein deposition in cortical and subcortical areas. The visual hallucinations are typically well-formed and detailed. Fluctuating cognition with lucid intervals is characteristic. Patients are extremely sensitive to antipsychotics (can cause severe parkinsonism), making management challenging."
+	},
+	{
+		"question-no": 80,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 32-year-old man with muscle twitching but asymptomatic. Blood tests show magnesium 0.70 mmol/L (normal range 0.70-1.10). What is the most appropriate management?",
+		"options": {
+			"a": "Oral magnesium",
+			"b": "Parenteral magnesium",
+			"c": "Oral hydration",
+			"d": "IV hydration",
+			"e": "Change PPI",
+			"f": "Admit",
+			"g": "Reassure"
+		},
+		"answer": "g",
+		"explanation": "Muscle twitching with normal magnesium and other electrolytes is likely benign fasciculations from stress, caffeine, or exercise. No treatment is required. Reassurance is appropriate.",
+		"original-question-no": "Question 80 of 97",
+		"id": "df429b25-de5a-4055-98d0-71fd06c4cf42",
+		"extended_explanation": "Benign fasciculation syndrome is common and often associated with health anxiety. If there are no other neurological signs (weakness, atrophy, fasciculations in multiple muscle groups), no investigation is needed. Reassure the patient that twitching alone is not a sign of motor neuron disease. Advise reducing caffeine and stress management techniques."
+	},
+	{
+		"question-no": 81,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 50-year-old woman presents to the GP with tremor, fatigue, and muscle cramps. Blood tests show magnesium 0.30 mmol/L (normal range 0.70-1.10). What is the most appropriate management?",
+		"options": {
+			"a": "Oral magnesium",
+			"b": "Parenteral magnesium",
+			"c": "Oral hydration",
+			"d": "IV hydration",
+			"e": "Change PPI",
+			"f": "Admit",
+			"g": "Reassure"
+		},
+		"answer": "f",
+		"explanation": "Severe hypomagnesaemia (0.30 mmol/L) with neuromuscular symptoms (tremor, cramps) requires admission for IV magnesium sulfate with cardiac monitoring to prevent life-threatening arrhythmias, seizures, or tetany.",
+		"original-question-no": "Question 81 of 97",
+		"id": "a667a2a9-6457-43f6-be62-f3e04e2101b9",
+		"extended_explanation": "Magnesium is crucial for muscle and nerve function, cardiac conduction, and many enzymatic reactions. Severe deficiency causes neuromuscular excitability (tremor, tetany, seizures) and cardiac arrhythmias (torsades de pointes). IV replacement (e.g., 40-80 mmol MgSO4 over 24 hours) is required with ECG monitoring. Oral supplementation is ineffective due to poor absorption at this level."
+	},
+	{
+		"question-no": 82,
+		"category": "samson-mock-15",
+		"sub-category": "Neurology",
+		"question": "A 66-year-old man presents to the GP surgery reporting a brief episode of left arm weakness and slurred speech that occurred 3 days ago and resolved completely. What is the most appropriate management?",
+		"options": {
+			"a": "Reassure and arrange routine review",
+			"b": "Admit to hospital immediately",
+			"c": "Arrange MRI brain urgently",
+			"d": "Send to the TIA clinic the same day",
+			"e": "Send to the TIA clinic within 7 days"
+		},
+		"answer": "d",
+		"explanation": "A resolved TIA requires same-day assessment in a specialist TIA clinic for risk stratification (ABCD2 score) and urgent initiation of secondary prevention. The risk of stroke is highest within 48 hours of TIA.",
+		"original-question-no": "Question 82 of 97",
+		"id": "aa0cf8b7-3f5f-4aa5-917c-dfaf46e54df3",
+		"extended_explanation": "NICE NG128 recommends that all suspected TIAs should be assessed within 24 hours (same day if ABCD2 score \u22654). Immediate secondary prevention includes aspirin 300mg daily for 2 weeks then 75mg, high-intensity statin, and BP control. Carotid imaging should be performed within 1 week if anterior circulation symptoms. The 7-day stroke risk after TIA is 10-20% without treatment, but this can be reduced by 80% with urgent assessment and treatment."
+	},
+	{
+		"question-no": 83,
+		"category": "samson-mock-15",
+		"sub-category": "Haematology",
+		"question": "A 48-year-old man who injects heroin presents with gum bleeding, mucosal bleeding, and prolonged bleeding time. What is the most likely diagnosis?",
+		"options": {
+			"a": "Paroxysmal nocturnal haemoglobinuria",
+			"b": "Systemic amyloidosis",
+			"c": "Liver failure",
+			"d": "Idiopathic thrombocytopenic purpura",
+			"e": "Platelet dysfunction"
+		},
+		"answer": "c",
+		"explanation": "IV drug use carries high risk of hepatitis B/C leading to chronic liver disease. Liver failure causes impaired clotting factor synthesis resulting in coagulopathy and mucosal bleeding despite normal platelet count. Skin changes like perioral scaling are also seen.",
+		"original-question-no": "Question 83 of 97",
+		"id": "4d1d5c3f-90e2-4a22-bbd7-b41fa5e396f3",
+		"extended_explanation": "Chronic hepatitis B and C have seroprevalence of 50-80% in IV drug users. Progression to cirrhosis occurs in 20-30% over 20-30 years. Coagulopathy results from reduced synthesis of factors II, VII, IX, X. Portal hypertension causes hypersplenism and thrombocytopenia. Skin manifestations include seborrhoeic dermatitis, spider naevi, and palmar erythema. Management includes hepatitis treatment, variceal screening, and clotting factor replacement if bleeding."
+	},
+	{
+		"question-no": 84,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 60-year-old man post-ileojejunectomy, discharged on a thiazide diuretic and PPI. Blood tests show magnesium 0.40 mmol/L. What is the most appropriate management?",
+		"options": {
+			"a": "Oral magnesium",
+			"b": "Parenteral magnesium",
+			"c": "Oral hydration",
+			"d": "IV hydration",
+			"e": "Change PPI",
+			"f": "Admit",
+			"g": "Reassure"
+		},
+		"answer": "f",
+		"explanation": "Severe hypomagnesaemia (0.40 mmol/L) after bowel resection requires admission for IV magnesium sulfate. Short bowel syndrome causes malabsorption and oral supplementation is ineffective. Thiazides and PPIs worsen magnesium loss.",
+		"original-question-no": "Question 84 of 97",
+		"id": "02becebf-efab-41dc-b5f4-fda966b5b598",
+		"extended_explanation": "Ileojejunectomy causes short bowel syndrome with malabsorption of magnesium, calcium, fat-soluble vitamins, and bile salts. Magnesium absorption occurs mainly in the ileum. PPIs block intestinal TRPM6/7 channels, impairing absorption. Thiazides cause renal magnesium wasting. Severe deficiency causes tetany, arrhythmias, and seizures. IV magnesium sulfate 40-80 mmol over 24h with cardiac monitoring is required, with thiazide stopped and PPI switched to H2RA."
+	},
+	{
+		"question-no": 85,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 25-year-old athlete with heavy sweating and low vegetable intake. Blood tests show magnesium 0.50 mmol/L. What is the most appropriate management?",
+		"options": {
+			"a": "Oral magnesium",
+			"b": "Parenteral magnesium",
+			"c": "Oral hydration",
+			"d": "IV hydration",
+			"e": "Change PPI",
+			"f": "Admit",
+			"g": "Reassure"
+		},
+		"answer": "a",
+		"explanation": "Mild hypomagnesaemia (0.50 mmol/L) from excessive sweating and poor dietary intake can be corrected with oral magnesium supplementation (300-400mg elemental Mg daily) and dietary advice. No admission required.",
+		"original-question-no": "Question 85 of 97",
+		"id": "d7469c95-f9c0-43d9-a3a6-158837e0ba90",
+		"extended_explanation": "Athletes lose significant magnesium in sweat (up to 20mg/L). Low vegetable intake reduces dietary magnesium (found in leafy greens, nuts, whole grains). Oral magnesium oxide 400mg or glycinate 300mg daily corrects deficiency over 2-4 weeks. Magnesium is important for muscle function and prevents exercise-induced cramps. Hydration alone is insufficient."
+	},
+	{
+		"question-no": 86,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 70-year-old woman on long-term PPI therapy. Blood tests show magnesium 0.55 mmol/L. What is the most appropriate management?",
+		"options": {
+			"a": "Oral magnesium",
+			"b": "Parenteral magnesium",
+			"c": "Oral hydration",
+			"d": "IV hydration",
+			"e": "Stop PPI",
+			"f": "Admit",
+			"g": "Reassure"
+		},
+		"answer": "e",
+		"explanation": "PPIs block intestinal magnesium absorption. The correct approach is to stop the PPI first (switch to H2RA if needed). Magnesium levels normalise within 1-2 weeks. Oral magnesium alone is ineffective while PPI continues.",
+		"original-question-no": "Question 86 of 97",
+		"id": "c4f30d26-c84b-491e-acb8-3ccc77e55a55",
+		"extended_explanation": "PPI-induced hypomagnesaemia occurs in 0.1-1% of long-term users. The mechanism involves inhibition of TRPM6/7 channels in intestinal epithelial cells. This is a dose-dependent, reversible effect. Stopping the PPI allows recovery of normal absorption. If acid suppression is still required, H2 receptor antagonists (ranitidine) can be used as they do not affect magnesium transport."
+	},
+	{
+		"question-no": 87,
+		"category": "samson-mock-15",
+		"sub-category": "Rheumatology",
+		"question": "A 52-year-old office worker presents with night-time tingling in the thumb and first 3 fingers. Examination shows sensory loss in the median nerve distribution but no muscle wasting. What is the most appropriate first-line treatment?",
+		"options": {
+			"a": "Oral steroids",
+			"b": "Median nerve decompression surgery",
+			"c": "Wrist splint worn at night",
+			"d": "Physiotherapy",
+			"e": "NSAIDs"
+		},
+		"answer": "c",
+		"explanation": "Night-time wrist splinting is first-line for mild carpal tunnel syndrome. It maintains neutral wrist position, reducing median nerve compression during sleep when we naturally flex our wrists. Effective in 60-80% of mild cases.",
+		"original-question-no": "Question 87 of 97",
+		"id": "53a8fe4b-5ca1-470d-bb57-7539f3f797e5",
+		"extended_explanation": "Carpal tunnel syndrome results from median nerve compression at the wrist. Night splints prevent wrist flexion which increases tunnel pressure up to 8x. Simple neutral wrist splints are inexpensive and should be tried for 4-6 weeks. If symptoms persist, consider ultrasound-guided steroid injection. Surgery is reserved for severe cases or those with thenar muscle wasting."
+	},
+	{
+		"question-no": 88,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "An 18-month-old girl is noted to have small breast tissue. She is 50th percentile for growth, healthy and meeting milestones. What is the most appropriate next step?",
+		"options": {
+			"a": "No investigation required",
+			"b": "Karyotyping",
+			"c": "GnRH stimulation test",
+			"d": "Serum SHBG",
+			"e": "Serum oestrogen",
+			"f": "Serum testosterone",
+			"g": "Thyroid function tests",
+			"h": "Bone age X-ray"
+		},
+		"answer": "a",
+		"explanation": "Isolated premature thelarche in toddlers <2 years is common and self-limiting, resolving by age 3. With normal growth and development, no investigation is required beyond reassurance.",
+		"original-question-no": "Question 88 of 97",
+		"id": "32531c56-df44-43e9-8d78-d52753709339",
+		"extended_explanation": "Premature thelarche is due to transient activation of the hypothalamic-pituitary-gonadal axis. It is differentiated from precocious puberty by absence of other signs (pubic hair, accelerated growth). No treatment is needed and most cases regress spontaneously. Parents should be reassured and the child monitored for progression, though this is rare."
+	},
+	{
+		"question-no": 89,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 16-year-old girl is shorter than her peers and has webbed neck folds, delayed puberty and primary amenorrhoea. What is the most appropriate investigation?",
+		"options": {
+			"a": "No investigation required",
+			"b": "Karyotyping",
+			"c": "GnRH stimulation test",
+			"d": "Serum SHBG",
+			"e": "Serum oestrogen",
+			"f": "Serum testosterone",
+			"g": "Thyroid function tests",
+			"h": "Bone age X-ray"
+		},
+		"answer": "b",
+		"explanation": "This classic Turner syndrome presentation requires karyotype analysis to confirm the diagnosis by showing 45,XO monosomy or mosaicism.",
+		"original-question-no": "Question 89 of 97",
+		"id": "f6090980-1460-4b05-88f3-596b04188733",
+		"extended_explanation": "Turner syndrome is the most common sex chromosome disorder in females. Diagnosis in adolescence is often delayed until puberty fails to occur. Karyotyping from peripheral blood is definitive. Once diagnosed, evaluation should include cardiac MRI (for aortic coarctation, bicuspid valve), renal ultrasound (horseshoe kidney), and bone density scan. Management includes growth hormone therapy, oestrogen replacement, and long-term surveillance for aortic dilatation."
+	},
+	{
+		"question-no": 90,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 6-year-old girl presents with pubic and axillary hair. She is taller than average for age. What is the most appropriate investigation?",
+		"options": {
+			"a": "No investigation required",
+			"b": "Karyotyping",
+			"c": "GnRH stimulation test",
+			"d": "Serum SHBG",
+			"e": "Serum oestrogen",
+			"f": "Serum testosterone",
+			"g": "Thyroid function tests",
+			"h": "Bone age X-ray"
+		},
+		"answer": "h",
+		"explanation": "Bone age X-ray (left hand/wrist) is the first investigation for suspected precocious puberty. It assesses skeletal maturity and distinguishes pathological acceleration from benign variants. Advanced bone age >chronological age suggests true precocious puberty.",
+		"original-question-no": "Question 90 of 97",
+		"id": "db6a67f1-b6e3-409b-842a-dc8e2398fee6",
+		"extended_explanation": "Precocious puberty is defined as onset <8 years in girls. The bone age assesses biological maturity and predicts final adult height. If bone age is advanced >2 years, further evaluation (LH/FSH, GnRH stimulation test, pelvic ultrasound, MRI brain) is needed to determine central vs peripheral causes. Simple premature adrenarche has normal bone age."
+	},
+	{
+		"question-no": 91,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 70-year-old patient with chronic kidney disease has an eGFR of 35 mL/min. He is taking metformin, naproxen, co-amoxiclav, and co-codamol. Which medication should be stopped?",
+		"options": {
+			"a": "Stop naproxen",
+			"b": "Stop metformin",
+			"c": "Stop co-codamol",
+			"d": "Stop antibiotics",
+			"e": "Paracetamol"
+		},
+		"answer": "a",
+		"explanation": "NSAIDs should be stopped in CKD stage 4 (eGFR <30) as they reduce renal blood flow and can precipitate acute kidney injury. Hyperkalaemia and fluid retention are additional risks.",
+		"original-question-no": "Question 91 of 97",
+		"id": "1a694cb3-4b4b-41ed-aa44-a6cceb00e7c0",
+		"extended_explanation": "NSAIDs inhibit prostaglandin synthesis, removing the protective vasodilatory effect on afferent arterioles. This reduces glomerular filtration and can cause AKI, especially with dehydration. In CKD stage 4, the risk is unacceptably high. Metformin is still safe at eGFR 35 but should be stopped if eGFR <30 or during acute illness. Paracetamol is the analgesic of choice in CKD."
+	},
+	{
+		"question-no": 92,
+		"category": "samson-mock-15",
+		"sub-category": "Pharmacology",
+		"question": "A 62-year-old man is recovering after surgery and is experiencing epigastric pain. He has a history of an epigastric ulcer four years ago. He is currently taking metformin, naproxen, co-amoxiclav and co-codamol. Which medication should be stopped?",
+		"options": {
+			"a": "Stop naproxen",
+			"b": "Stop metformin",
+			"c": "Stop co-codamol"
+		},
+		"answer": "a",
+		"explanation": "NSAIDs are contraindicated in patients with a history of peptic ulcer disease due to high risk of recurrence and bleeding. Naproxen should be stopped immediately and analgesia switched to paracetamol or if needed, a COX-2 selective NSAID with PPI prophylaxis.",
+		"original-question-no": "Question 92 of 97",
+		"id": "e44f33c7-ddb5-48a5-8a12-602e9047b93d",
+		"extended_explanation": "NSAIDs increase ulcer bleeding risk by inhibiting protective prostaglandins, reducing bicarbonate secretion, and impairing platelet function. In patients with previous ulcer bleeding, the recurrence risk is 10-20% if NSAIDs are continued. If NSAIDs are essential, co-prescription of a PPI reduces risk by 50-80%, but complete avoidance is safest."
+	},
+	{
+		"question-no": 93,
+		"category": "samson-mock-15",
+		"sub-category": "Rheumatology",
+		"question": "A 60-year-old man presents with severe tingling in the thumb and first 3 fingers and visible wasting of the thenar eminence. Symptoms have been present for months. What is the most appropriate management?",
+		"options": {
+			"a": "Continue splinting only",
+			"b": "Oral NSAIDs",
+			"c": "Local corticosteroid injection",
+			"d": "Urgent referral for surgical decompression",
+			"e": "Vitamin B12 supplementation"
+		},
+		"answer": "d",
+		"explanation": "Thenar muscle wasting indicates severe median nerve compression with axonal loss. This requires urgent surgical decompression to prevent permanent nerve damage and restore function. Splinting and injections are ineffective at this stage.",
+		"original-question-no": "Question 93 of 97",
+		"id": "4a7dcec5-9b9a-4433-b57a-e8ccd694b68d",
+		"extended_explanation": "Muscle wasting indicates chronic denervation and is an indication for immediate surgery. Delay reduces chance of recovery. Nerve conduction studies show delayed distal motor latency and reduced amplitude. Surgical decompression (open or endoscopic) has >90% success rate for symptom relief and prevents further deterioration. Thenar muscle strength may improve if surgery is performed within 6-12 months of onset."
+	},
+	{
+		"question-no": 94,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A 6-year-old boy is brought in after developing a seizure. His body temperature is 39\u00b0C. What is the most likely cause of the seizure?",
+		"options": {
+			"a": "Febrile convulsion",
+			"b": "Epileptic seizure",
+			"c": "Viral encephalitis"
+		},
+		"answer": "a",
+		"explanation": "A seizure with fever in a child aged 6 months to 6 years is most likely a simple febrile convulsion. These are benign, last <5 minutes, and are not associated with neurological sequelae.",
+		"original-question-no": "Question 94 of 97",
+		"id": "12e6fcd0-7134-4080-a9b9-ddb4eaffe818",
+		"extended_explanation": "Febrile convulsions affect 2-5% of children, usually between 6 months and 5 years. Risk factors include family history, neonatal discharge >28 days, and developmental delay. Simple febrile convulsions are generalized, last <15 minutes, and do not recur within 24 hours. Management focuses on treating the underlying infection and reassuring parents. Antipyretics do not prevent recurrence. Risk of future epilepsy is only 2-3%."
+	},
+	{
+		"question-no": 95,
+		"category": "samson-mock-15",
+		"sub-category": "Paediatrics",
+		"question": "A child developed enuresis after being dry during the day. On examination, you find multiple bruises on his body. What is the most appropriate next step in management?",
+		"options": {
+			"a": "Reassure",
+			"b": "Include safeguarding measures"
+		},
+		"answer": "b",
+		"explanation": "New-onset enuresis with multiple unexplained bruises raises suspicion of child abuse. This requires immediate safeguarding action including referral to social services and child protection team.",
+		"original-question-no": "Question 95 of 97",
+		"id": "12d6d2ea-c2f5-4c52-b63a-f8b416a077a7",
+		"extended_explanation": "Regression in continence and unexplained bruises are red flags for physical abuse and neglect. All healthcare professionals have a duty to act on safeguarding concerns. This includes documenting findings, speaking to the child alone if possible, and making an immediate referral to children's social care. The bruise pattern (location, colour, shape) should be carefully documented as it may be evidence. Do not reassure or delay referral."
+	},
+	{
+		"question-no": 96,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 72-year-old man with type 2 diabetes has recently been diagnosed with bladder cancer. He attends for a diabetes medication review. His current medications include Metformin, Acarbose, Pioglitazone and Gliclazide. Which medication should be stopped?",
+		"options": {
+			"a": "Metformin",
+			"b": "Acarbose",
+			"c": "Pioglitazone",
+			"d": "Gliclazide"
+		},
+		"answer": "c",
+		"explanation": "Pioglitazone is contraindicated in active bladder cancer as it increases the risk of bladder cancer with long-term use. It should be stopped immediately.",
+		"original-question-no": "Question 96 of 97",
+		"id": "b1e7e474-eb2a-42a6-b308-c62b7033b547",
+		"extended_explanation": "The PROactive study showed an increased risk of bladder cancer with pioglitazone (HR 1.83), particularly with cumulative dose >28,000mg. MHRA contraindicated pioglitazone in active or previous bladder cancer in 2011. Other side effects include fluid retention, heart failure, and fractures. Alternative agents (SGLT2 inhibitors, GLP-1 agonists) should be considered if metformin and gliclazide are insufficient."
+	},
+	{
+		"question-no": 97,
+		"category": "samson-mock-15",
+		"sub-category": "Endocrinology",
+		"question": "A 68-year-old man with type 2 diabetes and recently diagnosed heart failure (reduced ejection fraction) attends for medication review. His current diabetes medications include Metformin, Pioglitazone, Acarbose, Gliclazide. Which is the most important medication to stop?",
+		"options": {
+			"a": "Metformin",
+			"b": "Acarbose",
+			"c": "Pioglitazone",
+			"d": "Gliclazide"
+		},
+		"answer": "c",
+		"explanation": "Pioglitazone causes fluid retention and is contraindicated in heart failure. It can worsen or precipitate heart failure and should be stopped immediately. Metformin is safe in stable HF if eGFR >30.",
+		"original-question-no": "Question 97 of 97",
+		"id": "daa17235-5a00-40cc-bd2b-88f3afe857b2",
+		"extended_explanation": "Pioglitazone causes sodium and water retention through PPAR-\u03b3 activation, leading to peripheral oedema and increased plasma volume. This can precipitate heart failure in susceptible individuals. NICE and MHRA contraindicated it in NYHA class I-IV heart failure. SGLT2 inhibitors (empagliflozin, dapagliflozin) are preferred in HF with diabetes as they reduce hospitalisation and mortality."
+	}
+]

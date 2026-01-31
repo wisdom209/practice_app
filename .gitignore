@@ -1,0 +1,91 @@
+# Dependency directories
+node_modules/
+vendor/
+.pnp/
+.pnp.js
+.yarn/
+.vercel
+vercel
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Build outputs
+dist/
+build/
+out/
+*.tsbuildinfo
+.next/
+.nuxt/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Package manager specific
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+__pycache__/
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+tmp/
+temp/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Debug files
+*.dSYM/
+
+# Project specific (add your own below)
+# .env.local
+# config/local.yml
+
+src/data

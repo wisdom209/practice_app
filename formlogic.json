@@ -1,0 +1,48 @@
+[
+  {
+    "id": "unique-quiz-id-1",
+    "category": "General Knowledge",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple-choice",
+        "questionText": "What is the capital of Japan?",
+        "options": ["A. Seoul", "B. Beijing", "C. Tokyo", "D. Bangkok", "E. London"],
+        "answer": "C. Tokyo",
+        "explanation": "Tokyo is the capital and most populous city of Japan."
+      },
+      {
+        "id": "q2",
+        "type": "ranking",
+        "questionText": "Rank the celestial bodies by size, from smallest to largest.",
+        "options": ["Moon", "Earth", "Sun"],
+        "answer": ["Moon", "Earth", "Sun"],
+        "explanation": "The order of these bodies by size is Moon, Earth, and Sun."
+      },
+      {
+        "id": "q3",
+        "type": "choose-three",
+        "questionText": "Select the three primary colors of light.",
+        "options": ["Red", "Blue", "Green", "Yellow", "Cyan", "Magenta"],
+        "answer": ["Red", "Green", "Blue"],
+        "explanation": "The primary colors of light are Red, Green, and Blue (RGB)."
+      },
+      {
+        "id": "q4",
+        "type": "list-selection",
+        "questionText": "For each statement, choose the correct person from the list below.",
+        "options": ["Isaac Newton", "Albert Einstein", "Marie Curie", "Nikola Tesla"],
+        "subQuestions": [
+          {
+            "subQuestionText": "Developed the theory of relativity.",
+            "answer": "Albert Einstein"
+          },
+          {
+            "subQuestionText": "Pioneered research on radioactivity.",
+            "answer": "Marie Curie"
+          }
+        ]
+      }
+    ]
+  }
+]
